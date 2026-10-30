@@ -1,0 +1,140 @@
+{
+ "atualizado_em": "2026-10-30",
+ "resumos": [
+  {
+   "edicao": 4,
+   "id": "2026-10-26",
+   "inicio": "2026-10-26",
+   "fim": "2026-11-01",
+   "publicado_em": "2026-10-30",
+   "titulo": "Cocaína em compartimento submerso e operação contra o PCC na Baixada Santista",
+   "destaques": [
+    "Mergulhadores da PF e da Marinha retiraram 33 kg de cocaína de um compartimento submerso de navio atracado no Porto de Santos (27/10). O casco segue como um dos esconderijos preferidos do tráfico.",
+    "No dia seguinte, a Operação Rebuliço cumpriu 11 mandados de prisão temporária e bloqueou R$ 73,4 milhões em bens de grupo ligado ao PCC na Baixada Santista.",
+    "Na Amazônia, 72,7 kg de maconha, oxi e cocaína foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10), reforçando o uso das balsas de carga como rota do tráfico."
+   ],
+   "noticias": [
+    {
+     "data": "2026-10-28",
+     "titulo": "PF apreende cocaína submersa em navio e mira tráfico em reduto do PCC",
+     "local": "Porto de Santos · SP",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Metrópoles",
+     "url": "https://www.metropoles.com/sao-paulo/pf-apreende-cocaina-submersa-em-navio-e-mira-trafico-em-reduto-do-pcc",
+     "ocorrencia_id": "OC-2621"
+    },
+    {
+     "data": "2026-10-27",
+     "titulo": "PF apreende cerca de 33 kg de cocaína no Porto de Santos",
+     "local": "Porto de Santos · SP",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Isso é Notícia",
+     "url": "https://www.issoenoticia.com.br/policia/pf-apreende-cerca-de-33kg-de-cocaina-no-porto-de-santos/932838",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-10-23",
+     "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
+     "local": "Parintins · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Blog do Mario Adolfo",
+     "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+     "ocorrencia_id": "OC-2620"
+    }
+   ],
+   "numeros": {
+    "ocorrencias": 2,
+    "kg": 105.7
+   }
+  },
+  {
+   "edicao": 3,
+   "id": "2026-10-19",
+   "inicio": "2026-10-19",
+   "fim": "2026-10-25",
+   "publicado_em": "2026-10-25",
+   "titulo": "Balsas de carga seguem como rota do tráfico no interior do Amazonas",
+   "destaques": [
+    "Apreensão de 72,7 kg de drogas numa balsa no Porto do Dodó, em Parintins (23/10). O responsável pela conferência da carga foi levado à delegacia."
+   ],
+   "noticias": [
+    {
+     "data": "2026-10-23",
+     "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
+     "local": "Parintins · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Blog do Mario Adolfo",
+     "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+     "ocorrencia_id": "OC-2620"
+    }
+   ],
+   "numeros": {
+    "ocorrencias": 1,
+    "kg": 72.7
+   }
+  },
+  {
+   "edicao": 2,
+   "id": "2026-10-12",
+   "inicio": "2026-10-12",
+   "fim": "2026-10-18",
+   "publicado_em": "2026-10-18",
+   "titulo": "Piratas imitam polícia e Marinha para roubar combustível nos rios",
+   "destaques": [
+    "Reportagem mostra que criminosos usam sirenes para se passar por polícia e Marinha, render tripulações e desviar combustível de balsas.",
+    "Em 2025, cinco roubos desviaram cerca de 1,2 milhão de litros de combustível, principalmente diesel, nos rios Madeira, Amazonas e Solimões. O trecho de Itacoatiara ao Pará aparece como o mais crítico."
+   ],
+   "noticias": [
+    {
+     "data": "2026-10-15",
+     "titulo": "Pirataria nos rios da Amazônia: criminosos usam sirenes para imitar polícia e Marinha",
+     "local": "Rios da Amazônia",
+     "categoria": "Pirataria fluvial",
+     "fonte": "Revista Sociedade Militar",
+     "url": "https://www.sociedademilitar.com.br/2026/10/pirataria-nos-rios-da-amazonia-criminosos-usam-sirenes-para-imitar-policia-e-marinha-render-tripulacoes-e-roubar-combustivel-thz.html",
+     "ocorrencia_id": null
+    }
+   ],
+   "numeros": {
+    "ocorrencias": 0,
+    "kg": 0
+   }
+  },
+  {
+   "edicao": 1,
+   "id": "2026-10-05",
+   "inicio": "2026-10-05",
+   "fim": "2026-10-11",
+   "publicado_em": "2026-10-11",
+   "titulo": "Drogas escondidas em carga legal: painéis solares em Manaus e matéria-prima de sabonete em Santos",
+   "destaques": [
+    "Denarc e Receita Federal acharam 126 kg de skunk e haxixe entre painéis solares numa transportadora de Manaus, com destino a Guarulhos (06/10).",
+    "No Porto de Santos, 16,5 kg de cocaína estavam entre caixas de matéria-prima de sabonete com destino a Antuérpia (09/10)."
+   ],
+   "noticias": [
+    {
+     "data": "2026-10-06",
+     "titulo": "Operação apreende 126 kg de drogas avaliadas em R$ 3 milhões em transportadora de Manaus",
+     "local": "Manaus · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal de Doduro",
+     "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/",
+     "ocorrencia_id": "OC-2618"
+    },
+    {
+     "data": "2026-10-09",
+     "titulo": "Receita Federal intercepta 16,5 kg de cocaína no Porto de Santos",
+     "local": "Porto de Santos · SP",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Receita Federal",
+     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos",
+     "ocorrencia_id": "OC-2619"
+    }
+   ],
+   "numeros": {
+    "ocorrencias": 2,
+    "kg": 142.5
+   }
+  }
+ ]
+}
