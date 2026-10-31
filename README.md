@@ -7,7 +7,7 @@ O site lê estes arquivos toda vez que é aberto. Para atualizar o painel, basta
 | Arquivo | O que tem |
 |---|---|
 | `data/ocorrencias.json` | Todas as ocorrências (2024 em diante), com local, tipo, resumo, quantidade e link da fonte |
-| `data/resumos.json` | Resumos semanais com destaques e links para as notícias |
-| `ATUALIZACAO.md` | Regras de atualização usadas pela rotina semanal |
+| `data/resumos.json` | Resumo da semana, atualizado todo dia, com destaques e links |
+| `ATUALIZACAO.md` | Regras de atualização usadas pela rotina diária |
 
 Base pública: só notícias da imprensa e de órgãos oficiais, cada uma com a fonte original.

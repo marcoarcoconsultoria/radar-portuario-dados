@@ -20,9 +20,10 @@ x = round((X - 2791531.40873) * k, 1); y = round(-(Y - 10585904.489) * k, 1)
 ```
 
 ## Resumos (`data/resumos.json`)
-- Uma edição por semana (segunda a domingo), a mais nova primeiro em `resumos`.
-- Campos: `edicao` (número sequencial), `id` (data da segunda-feira), `inicio`, `fim`, `publicado_em`, `titulo`, `destaques` (2 a 4 frases), `noticias` (lista com `data`, `titulo`, `local`, `categoria`, `fonte`, `url`, `ocorrencia_id`), `numeros` (`ocorrencias`, `kg`).
+- Atualização DIÁRIA, logo após a meia-noite (Manaus). A edição cobre a semana de segunda a domingo e é atualizada todo dia.
+- Mais nova primeiro em `resumos`. Toda segunda-feira nasce uma edição nova.
+- Campos: `edicao` (número sequencial), `id` (data da segunda-feira), `inicio`, `fim`, `publicado_em` (data da última verificação, atualizada todo dia), `titulo`, `destaques` (2 a 4 frases), `noticias` (mais nova primeiro: `data`, `titulo`, `local`, `categoria`, `fonte`, `url`, `ocorrencia_id`), `numeros` (`ocorrencias`, `kg`).
 - Texto impessoal, sem primeira pessoa, sem travessões.
-- Semana sem caso novo: publicar edição curta com o que houve de contexto (reportagens, operações, normas) ou registrar "Sem ocorrências noticiadas na semana".
+- Dia sem novidade: só atualizar `publicado_em` e `atualizado_em`. Edição nova sem notícia ainda: destaques ["Sem ocorrências noticiadas até agora nesta semana."].
 
 Ao final, atualizar `atualizado_em` nos dois arquivos.
