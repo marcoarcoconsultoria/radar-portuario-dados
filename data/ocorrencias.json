@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-30",
- "total": 48,
+ "atualizado_em": "2026-10-31",
+ "total": 50,
  "rows": [
   {
    "id": "OC-2401",
@@ -913,6 +913,44 @@
    "local_aproximado": false,
    "fonte": "Metrópoles",
    "url": "https://www.metropoles.com/sao-paulo/pf-apreende-cocaina-submersa-em-navio-e-mira-trafico-em-reduto-do-pcc"
+  },
+  {
+   "id": "OC-2622",
+   "ano": 2026,
+   "data": "2026-10-29",
+   "local": "Galpão em Balneário Piçarras, litoral norte de SC",
+   "uf": "SC",
+   "regiao": "Sul",
+   "polo": "Itajaí / Navegantes",
+   "x": 632.9,
+   "y": 825.5,
+   "lat": -26.9,
+   "lon": -48.65,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Polícia Civil de SC apreendeu 4,4 toneladas de cocaína escondidas em estruturas de borracha num galpão. Seis britânicos presos; a suspeita é de envio ao exterior por logística portuária.",
+   "kg": 4426,
+   "local_aproximado": false,
+   "fonte": "ND+",
+   "url": "https://ndmais.com.br/seguranca/apreensao-de-cocaina-em-sc-maior-do-brasil/"
+  },
+  {
+   "id": "OC-2623",
+   "ano": 2026,
+   "data": "2026-10-30",
+   "local": "Porto de Paranaguá",
+   "uf": "PR",
+   "regiao": "Sul",
+   "polo": "Porto de Paranaguá",
+   "x": 637.6,
+   "y": 789.7,
+   "lat": -25.5,
+   "lon": -48.51,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PF apreendeu cerca de 31,6 kg de cocaína escondidos em compartimentos de navio de carga.",
+   "kg": 31.6,
+   "local_aproximado": false,
+   "fonte": "Portal Mato Grosso",
+   "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/"
   }
  ]
 }

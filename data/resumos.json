@@ -1,19 +1,38 @@
 {
- "atualizado_em": "2026-10-30",
+ "atualizado_em": "2026-10-31",
  "resumos": [
   {
    "edicao": 4,
    "id": "2026-10-26",
    "inicio": "2026-10-26",
    "fim": "2026-11-01",
-   "publicado_em": "2026-10-30",
-   "titulo": "Cocaína em compartimento submerso e operação contra o PCC na Baixada Santista",
+   "publicado_em": "2026-10-31",
+   "titulo": "Recorde de 4,4 toneladas em SC e cocaína escondida em navios em Santos e Paranaguá",
    "destaques": [
-    "Mergulhadores da PF e da Marinha retiraram 33 kg de cocaína de um compartimento submerso de navio atracado no Porto de Santos (27/10). O casco segue como um dos esconderijos preferidos do tráfico.",
-    "No dia seguinte, a Operação Rebuliço cumpriu 11 mandados de prisão temporária e bloqueou R$ 73,4 milhões em bens de grupo ligado ao PCC na Baixada Santista.",
-    "Na Amazônia, 72,7 kg de maconha, oxi e cocaína foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10), reforçando o uso das balsas de carga como rota do tráfico."
+    "A Polícia Civil de Santa Catarina apreendeu 4,4 toneladas de cocaína num galpão em Balneário Piçarras, perto do complexo portuário de Itajaí (29/10). Seis britânicos foram presos e a suspeita é de envio ao exterior por logística portuária.",
+    "Mergulhadores da PF e da Marinha retiraram 33 kg de cocaína de um compartimento submerso de navio atracado no Porto de Santos (27/10). No dia seguinte, a Operação Rebuliço cumpriu 11 mandados de prisão contra grupo ligado ao PCC.",
+    "No Porto de Paranaguá, a PF achou 31,6 kg de cocaína em compartimentos de um navio de carga (30/10).",
+    "Na Amazônia, 72,7 kg de drogas foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10)."
    ],
    "noticias": [
+    {
+     "data": "2026-10-30",
+     "titulo": "Apreensão de 4,4 toneladas de cocaína em SC se torna a maior em operação única no país",
+     "local": "Balneário Piçarras · SC",
+     "categoria": "Apreensão de drogas",
+     "fonte": "ND+",
+     "url": "https://ndmais.com.br/seguranca/apreensao-de-cocaina-em-sc-maior-do-brasil/",
+     "ocorrencia_id": "OC-2622"
+    },
+    {
+     "data": "2026-10-30",
+     "titulo": "PF apreende mais de 31 kg de cocaína no porto de Paranaguá",
+     "local": "Porto de Paranaguá · PR",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal Mato Grosso",
+     "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/",
+     "ocorrencia_id": "OC-2623"
+    },
     {
      "data": "2026-10-28",
      "titulo": "PF apreende cocaína submersa em navio e mira tráfico em reduto do PCC",
@@ -43,8 +62,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 2,
-    "kg": 105.7
+    "ocorrencias": 4,
+    "kg": 4563.3
    }
   },
   {
