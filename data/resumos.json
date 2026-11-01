@@ -1,12 +1,12 @@
 {
- "atualizado_em": "2026-10-31",
+ "atualizado_em": "2026-11-01",
  "resumos": [
   {
    "edicao": 4,
    "id": "2026-10-26",
    "inicio": "2026-10-26",
    "fim": "2026-11-01",
-   "publicado_em": "2026-10-31",
+   "publicado_em": "2026-11-01",
    "titulo": "Recorde de 4,4 toneladas em SC e cocaína escondida em navios em Santos e Paranaguá",
    "destaques": [
     "A Polícia Civil de Santa Catarina apreendeu 4,4 toneladas de cocaína num galpão em Balneário Piçarras, perto do complexo portuário de Itajaí (29/10). Seis britânicos foram presos e a suspeita é de envio ao exterior por logística portuária.",
@@ -74,9 +74,19 @@
    "publicado_em": "2026-10-25",
    "titulo": "Balsas de carga seguem como rota do tráfico no interior do Amazonas",
    "destaques": [
-    "Apreensão de 72,7 kg de drogas numa balsa no Porto do Dodó, em Parintins (23/10). O responsável pela conferência da carga foi levado à delegacia."
+    "Apreensão de 72,7 kg de drogas numa balsa no Porto do Dodó, em Parintins (23/10). O responsável pela conferência da carga foi levado à delegacia.",
+    "Na Base Fluvial Arpão 1, em Jutaí, 15,6 kg de cocaína e pasta-base foram achados em duas embarcações com destino a Manaus (24/10)."
    ],
    "noticias": [
+    {
+     "data": "2026-10-26",
+     "titulo": "Operação em Jutaí intercepta drogas vindas da fronteira e causa prejuízo milionário",
+     "local": "Jutaí · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal Barelândia",
+     "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/",
+     "ocorrencia_id": "OC-2624"
+    },
     {
      "data": "2026-10-23",
      "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
@@ -88,8 +98,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 1,
-    "kg": 72.7
+    "ocorrencias": 2,
+    "kg": 88.3
    }
   },
   {

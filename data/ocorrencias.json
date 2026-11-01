@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-31",
- "total": 50,
+ "atualizado_em": "2026-11-01",
+ "total": 51,
  "rows": [
   {
    "id": "OC-2401",
@@ -951,6 +951,25 @@
    "local_aproximado": false,
    "fonte": "Portal Mato Grosso",
    "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/"
+  },
+  {
+   "id": "OC-2624",
+   "ano": 2026,
+   "data": "2026-10-24",
+   "local": "Base Fluvial Arpão 1, Jutaí",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Médio Solimões · Jutaí",
+   "x": 182.2,
+   "y": 207.3,
+   "lat": -2.75,
+   "lon": -66.77,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Fiscalização da Base Arpão 1 achou 15,6 kg de cocaína e pasta-base em duas embarcações (lancha e barco de passageiros) que seguiam para Manaus.",
+   "kg": 15.6,
+   "local_aproximado": false,
+   "fonte": "Portal Barelândia",
+   "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/"
   }
  ]
 }
