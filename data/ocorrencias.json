@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-01",
- "total": 51,
+ "atualizado_em": "2026-11-02",
+ "total": 52,
  "rows": [
   {
    "id": "OC-2401",
@@ -970,6 +970,25 @@
    "local_aproximado": false,
    "fonte": "Portal Barelândia",
    "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/"
+  },
+  {
+   "id": "OC-2625",
+   "ano": 2026,
+   "data": "2026-11-01",
+   "local": "Embarcação em Boa Vista do Ramos",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Boa Vista do Ramos (AM)",
+   "x": 418.0,
+   "y": 211.3,
+   "lat": -2.97,
+   "lon": -57.59,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Na Operação Faro, cadela farejadora indicou mochila sem identificação no setor de encomendas de barco vindo de Manaus, com cerca de 5,8 kg de cocaína, skunk e oxi. Um homem foi levado à delegacia. Data da notícia; o dia da apreensão não foi informado.",
+   "kg": 5.8,
+   "local_aproximado": false,
+   "fonte": "Rios de Notícias",
+   "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/"
   }
  ]
 }

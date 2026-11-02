@@ -1,6 +1,22 @@
 {
- "atualizado_em": "2026-11-01",
+ "atualizado_em": "2026-11-02",
  "resumos": [
+  {
+   "edicao": 5,
+   "id": "2026-11-02",
+   "inicio": "2026-11-02",
+   "fim": "2026-11-08",
+   "publicado_em": "2026-11-02",
+   "titulo": "Semana de 2 a 8 de novembro: sem ocorrências noticiadas até agora",
+   "destaques": [
+    "Sem ocorrências noticiadas até agora nesta semana."
+   ],
+   "noticias": [],
+   "numeros": {
+    "ocorrencias": 0,
+    "kg": 0
+   }
+  },
   {
    "edicao": 4,
    "id": "2026-10-26",
@@ -12,9 +28,18 @@
     "A Polícia Civil de Santa Catarina apreendeu 4,4 toneladas de cocaína num galpão em Balneário Piçarras, perto do complexo portuário de Itajaí (29/10). Seis britânicos foram presos e a suspeita é de envio ao exterior por logística portuária.",
     "Mergulhadores da PF e da Marinha retiraram 33 kg de cocaína de um compartimento submerso de navio atracado no Porto de Santos (27/10). No dia seguinte, a Operação Rebuliço cumpriu 11 mandados de prisão contra grupo ligado ao PCC.",
     "No Porto de Paranaguá, a PF achou 31,6 kg de cocaína em compartimentos de um navio de carga (30/10).",
-    "Na Amazônia, 72,7 kg de drogas foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10)."
+    "Na Amazônia, 72,7 kg de drogas foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10), e cerca de 5,8 kg num barco em Boa Vista do Ramos, na Operação Faro (noticiado em 01/11)."
    ],
    "noticias": [
+    {
+     "data": "2026-11-01",
+     "titulo": "Cadela policial ajuda a apreender 5,8 quilos de drogas em embarcação no Amazonas",
+     "local": "Boa Vista do Ramos · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Rios de Notícias",
+     "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/",
+     "ocorrencia_id": "OC-2625"
+    },
     {
      "data": "2026-10-30",
      "titulo": "Apreensão de 4,4 toneladas de cocaína em SC se torna a maior em operação única no país",
@@ -62,8 +87,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 4,
-    "kg": 4563.3
+    "ocorrencias": 5,
+    "kg": 4569.1
    }
   },
   {
