@@ -1,20 +1,40 @@
 {
- "atualizado_em": "2026-11-03",
+ "atualizado_em": "2026-11-04",
  "resumos": [
   {
    "edicao": 5,
    "id": "2026-11-02",
    "inicio": "2026-11-02",
    "fim": "2026-11-08",
-   "publicado_em": "2026-11-03",
-   "titulo": "Semana de 2 a 8 de novembro: sem ocorrências noticiadas até agora",
+   "publicado_em": "2026-11-04",
+   "titulo": "Skunk escondido em boia de barco em Japurá e investigação sobre pesqueiros usados para levar cocaína à Europa",
    "destaques": [
-    "Sem ocorrências noticiadas até agora nesta semana."
+    "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos e a droga seguiria para Manaus.",
+    "Reportagem da Band repercutida em 03/11 descreve investigação da PF sobre pesqueiros de Santa Catarina supostamente adaptados para levar cocaína à Europa e à África, com rastreamento desligado e logística na região de Itajaí."
    ],
-   "noticias": [],
+   "noticias": [
+    {
+     "data": "2026-11-03",
+     "titulo": "Polícia apreende 16 kg de skunk escondidos em embarcação no interior do Amazonas",
+     "local": "Japurá · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "O Chefão da Notícia",
+     "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/",
+     "ocorrencia_id": "OC-2626"
+    },
+    {
+     "data": "2026-11-03",
+     "titulo": "Barcos fantasmas: PF investiga pesqueiros usados para levar cocaína à Europa",
+     "local": "Itajaí · SC",
+     "categoria": "Operação policial",
+     "fonte": "Defesa em Foco",
+     "url": "https://www.defesaemfoco.com.br/barcos-fantasmas-pf-investiga-pesqueiros-cocaina-europa/",
+     "ocorrencia_id": null
+    }
+   ],
    "numeros": {
-    "ocorrencias": 0,
-    "kg": 0
+    "ocorrencias": 1,
+    "kg": 16
    }
   },
   {

@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-03",
- "total": 52,
+ "atualizado_em": "2026-11-04",
+ "total": 53,
  "rows": [
   {
    "id": "OC-2401",
@@ -989,6 +989,25 @@
    "local_aproximado": false,
    "fonte": "Rios de Notícias",
    "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/"
+  },
+  {
+   "id": "OC-2626",
+   "ano": 2026,
+   "data": "2026-10-31",
+   "local": "Porto de Japurá",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Japurá (AM)",
+   "x": 177.9,
+   "y": 184.6,
+   "lat": -1.88,
+   "lon": -66.93,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Polícia Civil, PM e Guarda Municipal acharam cerca de 16 kg de skunk escondidos na boia de uma embarcação, após denúncia anônima. Dois homens foram presos. A droga seguiria para Manaus.",
+   "kg": 16,
+   "local_aproximado": false,
+   "fonte": "O Chefão da Notícia",
+   "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/"
   }
  ]
 }
