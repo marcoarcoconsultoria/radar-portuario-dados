@@ -1,18 +1,28 @@
 {
- "atualizado_em": "2026-11-04",
+ "atualizado_em": "2026-11-05",
  "resumos": [
   {
    "edicao": 5,
    "id": "2026-11-02",
    "inicio": "2026-11-02",
    "fim": "2026-11-08",
-   "publicado_em": "2026-11-04",
-   "titulo": "Skunk escondido em boia de barco em Japurá e investigação sobre pesqueiros usados para levar cocaína à Europa",
+   "publicado_em": "2026-11-05",
+   "titulo": "Contêiner com 15 toneladas de produtos irregulares no Porto do Rio e skunk escondido em boia de barco em Japurá",
    "destaques": [
+    "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, na Operação Fronteira. A carga foi declarada como guarda-chuvas e não envolvia drogas.",
     "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos e a droga seguiria para Manaus.",
     "Reportagem da Band repercutida em 03/11 descreve investigação da PF sobre pesqueiros de Santa Catarina supostamente adaptados para levar cocaína à Europa e à África, com rastreamento desligado e logística na região de Itajaí."
    ],
    "noticias": [
+    {
+     "data": "2026-11-04",
+     "titulo": "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio",
+     "local": "Rio de Janeiro · RJ",
+     "categoria": "Operação policial",
+     "fonte": "Agência Brasil, via Tribuna do Sertão",
+     "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio",
+     "ocorrencia_id": "OC-2627"
+    },
     {
      "data": "2026-11-03",
      "titulo": "Polícia apreende 16 kg de skunk escondidos em embarcação no interior do Amazonas",
@@ -33,7 +43,7 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 1,
+    "ocorrencias": 2,
     "kg": 16
    }
   },

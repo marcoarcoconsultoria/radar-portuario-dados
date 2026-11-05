@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-04",
- "total": 53,
+ "atualizado_em": "2026-11-05",
+ "total": 54,
  "rows": [
   {
    "id": "OC-2401",
@@ -1008,6 +1008,25 @@
    "local_aproximado": false,
    "fonte": "O Chefão da Notícia",
    "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/"
+  },
+  {
+   "id": "OC-2627",
+   "ano": 2026,
+   "data": "2026-11-04",
+   "local": "Porto do Rio de Janeiro",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "polo": "Porto do Rio de Janeiro",
+   "x": 766.2,
+   "y": 729.7,
+   "lat": -22.89,
+   "lon": -43.19,
+   "categoria": "Operação policial",
+   "resumo": "Receita Federal apreendeu contêiner vindo da China com cerca de 15 toneladas e 243 mil itens irregulares, avaliados em R$ 3,6 milhões. Declarada como guarda-chuvas, a carga tinha cosméticos sem anuência da Anvisa e indícios de fraude de marca. Ação da Operação Fronteira.",
+   "kg": null,
+   "local_aproximado": false,
+   "fonte": "Agência Brasil, via Tribuna do Sertão",
+   "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio"
   }
  ]
 }
