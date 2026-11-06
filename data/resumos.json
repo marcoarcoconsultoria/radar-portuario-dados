@@ -1,19 +1,38 @@
 {
- "atualizado_em": "2026-11-05",
+ "atualizado_em": "2026-11-06",
  "resumos": [
   {
    "edicao": 5,
    "id": "2026-11-02",
    "inicio": "2026-11-02",
    "fim": "2026-11-08",
-   "publicado_em": "2026-11-05",
-   "titulo": "Contêiner com 15 toneladas de produtos irregulares no Porto do Rio e skunk escondido em boia de barco em Japurá",
+   "publicado_em": "2026-11-06",
+   "titulo": "Porto do Rio concentra apreensões de carga irregular: 15 toneladas num contêiner e brinquedos falsificados em outro",
    "destaques": [
     "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, na Operação Fronteira. A carga foi declarada como guarda-chuvas e não envolvia drogas.",
+    "Também no Porto do Rio, em 04/11, inspeção de rotina encontrou em outro contêiner da China 1.680 caixas de blocos de montar que imitavam a marca Lego, avaliadas em R$ 228 mil.",
     "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos e a droga seguiria para Manaus.",
-    "Reportagem da Band repercutida em 03/11 descreve investigação da PF sobre pesqueiros de Santa Catarina supostamente adaptados para levar cocaína à Europa e à África, com rastreamento desligado e logística na região de Itajaí."
+    "A Operação Fronteira, lançada pela Receita Federal em 03/11 com fiscalização também em portos, somava cerca de R$ 29,5 milhões em apreensões e 15 prisões até 04/11, em mais de 40 cidades."
    ],
    "noticias": [
+    {
+     "data": "2026-11-05",
+     "titulo": "Operação Fronteira Receita Federal já soma R$ 30 milhões em apreensões",
+     "local": "Brasil",
+     "categoria": "Operação policial",
+     "fonte": "Agência Gov",
+     "url": "https://agenciagov.ebc.com.br/noticias/202611/operacao-fronteira-receita-federal-ja-soma-cerca-de-r-30-milhoes-em-apreensoes-1",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-05",
+     "titulo": "Receita Federal apreende brinquedos falsificados no Porto do Rio",
+     "local": "Rio de Janeiro · RJ",
+     "categoria": "Operação policial",
+     "fonte": "Primeira Página SC",
+     "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/",
+     "ocorrencia_id": "OC-2628"
+    },
     {
      "data": "2026-11-04",
      "titulo": "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio",
@@ -43,7 +62,7 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 2,
+    "ocorrencias": 3,
     "kg": 16
    }
   },

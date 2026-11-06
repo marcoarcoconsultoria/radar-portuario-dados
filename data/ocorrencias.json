@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-05",
- "total": 54,
+ "atualizado_em": "2026-11-06",
+ "total": 55,
  "rows": [
   {
    "id": "OC-2401",
@@ -1027,6 +1027,25 @@
    "local_aproximado": false,
    "fonte": "Agência Brasil, via Tribuna do Sertão",
    "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio"
+  },
+  {
+   "id": "OC-2628",
+   "ano": 2026,
+   "data": "2026-11-04",
+   "local": "Porto do Rio de Janeiro",
+   "uf": "RJ",
+   "regiao": "Sudeste",
+   "polo": "Porto do Rio de Janeiro",
+   "x": 766.2,
+   "y": 729.7,
+   "lat": -22.89,
+   "lon": -43.19,
+   "categoria": "Operação policial",
+   "resumo": "Em inspeção de rotina, a Receita Federal apreendeu em contêiner vindo da China 1.680 caixas de blocos de montar que imitavam a marca Lego, em conjuntos de 166 e 614 peças, avaliadas em R$ 228 mil. Análise preliminar de representante da marca confirmou a falsificação; laudo técnico em elaboração.",
+   "kg": null,
+   "local_aproximado": false,
+   "fonte": "Primeira Página SC",
+   "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/"
   }
  ]
 }
