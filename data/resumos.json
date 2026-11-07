@@ -1,20 +1,29 @@
 {
- "atualizado_em": "2026-11-06",
+ "atualizado_em": "2026-11-07",
  "resumos": [
   {
    "edicao": 5,
    "id": "2026-11-02",
    "inicio": "2026-11-02",
    "fim": "2026-11-08",
-   "publicado_em": "2026-11-06",
+   "publicado_em": "2026-11-07",
    "titulo": "Porto do Rio concentra apreensões de carga irregular: 15 toneladas num contêiner e brinquedos falsificados em outro",
    "destaques": [
     "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, na Operação Fronteira. A carga foi declarada como guarda-chuvas e não envolvia drogas.",
     "Também no Porto do Rio, em 04/11, inspeção de rotina encontrou em outro contêiner da China 1.680 caixas de blocos de montar que imitavam a marca Lego, avaliadas em R$ 228 mil.",
     "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos e a droga seguiria para Manaus.",
-    "A Operação Fronteira, lançada pela Receita Federal em 03/11 com fiscalização também em portos, somava cerca de R$ 29,5 milhões em apreensões e 15 prisões até 04/11, em mais de 40 cidades."
+    "Na Base Integrada Fluvial Candiru, em Óbidos (PA), o Grupamento Fluvial apreendeu em 05/11 cerca de 4,35 kg de pasta base de cocaína em encomenda a bordo de embarcação que seguia de Manaus para Belém."
    ],
    "noticias": [
+    {
+     "data": "2026-11-06",
+     "titulo": "Polícia apreende mais de 4 kg de pasta base de cocaína em embarcação no Rio Amazonas",
+     "local": "Óbidos · PA",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Estado do Pará Online",
+     "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas",
+     "ocorrencia_id": "OC-2629"
+    },
     {
      "data": "2026-11-05",
      "titulo": "Operação Fronteira Receita Federal já soma R$ 30 milhões em apreensões",
@@ -62,8 +71,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 3,
-    "kg": 16
+    "ocorrencias": 4,
+    "kg": 20.35
    }
   },
   {

@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-06",
- "total": 55,
+ "atualizado_em": "2026-11-07",
+ "total": 56,
  "rows": [
   {
    "id": "OC-2401",
@@ -1046,6 +1046,25 @@
    "local_aproximado": false,
    "fonte": "Primeira Página SC",
    "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/"
+  },
+  {
+   "id": "OC-2629",
+   "ano": 2026,
+   "data": "2026-11-05",
+   "local": "Base Integrada Fluvial Candiru, Rio Amazonas, Óbidos",
+   "uf": "PA",
+   "regiao": "Norte",
+   "polo": "Óbidos (PA)",
+   "x": 471.1,
+   "y": 183.9,
+   "lat": -1.9,
+   "lon": -55.52,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Grupamento Fluvial achou 4,35 kg de pasta base de cocaína (12 tabletes) em caixa de isopor no setor de encomendas da embarcação F/C Rondônia, que fazia o trajeto Manaus-Belém. Valor estimado de R$ 217,5 mil.",
+   "kg": 4.35,
+   "local_aproximado": false,
+   "fonte": "Estado do Pará Online",
+   "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas"
   }
  ]
 }
