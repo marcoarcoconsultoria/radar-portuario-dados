@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-07",
- "total": 56,
+ "atualizado_em": "2026-11-08",
+ "total": 57,
  "rows": [
   {
    "id": "OC-2401",
@@ -1065,6 +1065,25 @@
    "local_aproximado": false,
    "fonte": "Estado do Pará Online",
    "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas"
+  },
+  {
+   "id": "OC-2630",
+   "ano": 2026,
+   "data": "2026-11-04",
+   "local": "Comunidade São Francisco da Boca do Codajás Mirim, Coari",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Rio Solimões · Coari",
+   "x": 275.7,
+   "y": 240.9,
+   "lat": -4.08,
+   "lon": -63.14,
+   "categoria": "Pirataria fluvial",
+   "resumo": "Na madrugada, grupo conhecido como piratas invadiu casas da comunidade, roubou moradores, levou embarcações, motor, rádio e material de pesca e fez ao menos quatro reféns, depois liberados. Famílias fugiram para a mata. A PM mobilizou 14 policiais, 8 deles da Base Fluvial Arpão 2, com lancha blindada; ninguém foi preso até a publicação.",
+   "kg": null,
+   "local_aproximado": true,
+   "fonte": "ac24horas",
+   "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/"
   }
  ]
 }

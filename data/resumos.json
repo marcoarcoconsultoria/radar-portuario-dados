@@ -1,20 +1,29 @@
 {
- "atualizado_em": "2026-11-07",
+ "atualizado_em": "2026-11-08",
  "resumos": [
   {
    "edicao": 5,
    "id": "2026-11-02",
    "inicio": "2026-11-02",
    "fim": "2026-11-08",
-   "publicado_em": "2026-11-07",
-   "titulo": "Porto do Rio concentra apreensões de carga irregular: 15 toneladas num contêiner e brinquedos falsificados em outro",
+   "publicado_em": "2026-11-08",
+   "titulo": "Piratas atacam comunidade em Coari e Porto do Rio concentra apreensões de carga irregular",
    "destaques": [
-    "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, na Operação Fronteira. A carga foi declarada como guarda-chuvas e não envolvia drogas.",
-    "Também no Porto do Rio, em 04/11, inspeção de rotina encontrou em outro contêiner da China 1.680 caixas de blocos de montar que imitavam a marca Lego, avaliadas em R$ 228 mil.",
-    "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos e a droga seguiria para Manaus.",
+    "Em Coari (AM), piratas invadiram na madrugada de 04/11 a comunidade São Francisco da Boca do Codajás Mirim, roubaram moradores e embarcações e fizeram ao menos quatro reféns, depois liberados. Famílias se esconderam na mata e a PM enviou equipes da Base Fluvial Arpão 2.",
+    "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, e, em outro contêiner, 1.680 caixas de blocos de montar falsificados, avaliadas em R$ 228 mil.",
+    "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos.",
     "Na Base Integrada Fluvial Candiru, em Óbidos (PA), o Grupamento Fluvial apreendeu em 05/11 cerca de 4,35 kg de pasta base de cocaína em encomenda a bordo de embarcação que seguia de Manaus para Belém."
    ],
    "noticias": [
+    {
+     "data": "2026-11-06",
+     "titulo": "Vídeo mostra famílias escondidas na mata após ataque de piratas em comunidade no Amazonas",
+     "local": "Coari · AM",
+     "categoria": "Pirataria fluvial",
+     "fonte": "ac24horas",
+     "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/",
+     "ocorrencia_id": "OC-2630"
+    },
     {
      "data": "2026-11-06",
      "titulo": "Polícia apreende mais de 4 kg de pasta base de cocaína em embarcação no Rio Amazonas",
@@ -71,7 +80,7 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 4,
+    "ocorrencias": 5,
     "kg": 20.35
    }
   },
