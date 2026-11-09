@@ -1,6 +1,22 @@
 {
- "atualizado_em": "2026-11-08",
+ "atualizado_em": "2026-11-09",
  "resumos": [
+  {
+   "edicao": 6,
+   "id": "2026-11-09",
+   "inicio": "2026-11-09",
+   "fim": "2026-11-15",
+   "publicado_em": "2026-11-09",
+   "titulo": "Semana de 9 a 15 de novembro",
+   "destaques": [
+    "Sem ocorrências noticiadas até agora nesta semana."
+   ],
+   "noticias": [],
+   "numeros": {
+    "ocorrencias": 0,
+    "kg": 0
+   }
+  },
   {
    "edicao": 5,
    "id": "2026-11-02",
@@ -229,19 +245,11 @@
    "publicado_em": "2026-10-11",
    "titulo": "Drogas escondidas em carga legal: painéis solares em Manaus e matéria-prima de sabonete em Santos",
    "destaques": [
+    "Na Baía de Todos-os-Santos, em Salvador (BA), mergulhadores da PM acharam cerca de 150 kg de cocaína em áreas submersas de um navio com provável destino à Europa, em ação liderada pela PF (07/10).",
     "Denarc e Receita Federal acharam 126 kg de skunk e haxixe entre painéis solares numa transportadora de Manaus, com destino a Guarulhos (06/10).",
     "No Porto de Santos, 16,5 kg de cocaína estavam entre caixas de matéria-prima de sabonete com destino a Antuérpia (09/10)."
    ],
    "noticias": [
-    {
-     "data": "2026-10-06",
-     "titulo": "Operação apreende 126 kg de drogas avaliadas em R$ 3 milhões em transportadora de Manaus",
-     "local": "Manaus · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal de Doduro",
-     "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/",
-     "ocorrencia_id": "OC-2618"
-    },
     {
      "data": "2026-10-09",
      "titulo": "Receita Federal intercepta 16,5 kg de cocaína no Porto de Santos",
@@ -250,11 +258,29 @@
      "fonte": "Receita Federal",
      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos",
      "ocorrencia_id": "OC-2619"
+    },
+    {
+     "data": "2026-10-08",
+     "titulo": "Mergulhadores encontram cerca de 150 kg de cocaína em navio no mar de Salvador",
+     "local": "Salvador · BA",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Correio",
+     "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026",
+     "ocorrencia_id": "OC-2631"
+    },
+    {
+     "data": "2026-10-06",
+     "titulo": "Operação apreende 126 kg de drogas avaliadas em R$ 3 milhões em transportadora de Manaus",
+     "local": "Manaus · AM",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal de Doduro",
+     "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/",
+     "ocorrencia_id": "OC-2618"
     }
    ],
    "numeros": {
-    "ocorrencias": 2,
-    "kg": 142.5
+    "ocorrencias": 3,
+    "kg": 292.5
    }
   }
  ]

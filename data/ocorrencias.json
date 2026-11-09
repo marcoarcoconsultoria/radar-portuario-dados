@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-08",
- "total": 57,
+ "atualizado_em": "2026-11-09",
+ "total": 58,
  "rows": [
   {
    "id": "OC-2401",
@@ -1084,6 +1084,25 @@
    "local_aproximado": true,
    "fonte": "ac24horas",
    "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/"
+  },
+  {
+   "id": "OC-2631",
+   "ano": 2026,
+   "data": "2026-10-07",
+   "local": "Navio de carga na Baía de Todos-os-Santos, Salvador",
+   "uf": "BA",
+   "regiao": "Nordeste",
+   "polo": "Porto de Salvador",
+   "x": 898.2,
+   "y": 478.5,
+   "lat": -12.97,
+   "lon": -38.51,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Mergulhadores da PM acharam cerca de 150 kg de cocaína em áreas submersas de navio de bandeira panamenha com provável destino à Europa. Ação liderada pela PF, com PM da Bahia e Receita Federal. Ninguém preso até a publicação.",
+   "kg": 150,
+   "local_aproximado": false,
+   "fonte": "Correio",
+   "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026"
   }
  ]
 }
