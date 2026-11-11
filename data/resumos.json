@@ -1,19 +1,39 @@
 {
- "atualizado_em": "2026-11-10",
+ "atualizado_em": "2026-11-11",
  "resumos": [
   {
    "edicao": 6,
    "id": "2026-11-09",
    "inicio": "2026-11-09",
    "fim": "2026-11-15",
-   "publicado_em": "2026-11-10",
-   "titulo": "Semana de 9 a 15 de novembro",
+   "publicado_em": "2026-11-11",
+   "titulo": "Operação Recycling mira lavagem do tráfico ligada ao setor portuário em Itajaí",
    "destaques": [
-    "Sem ocorrências noticiadas até agora nesta semana."
+    "PF deflagrou a Operação Recycling em Itajaí (SC) contra família de empresários do setor portuário suspeita de lavar dinheiro do envio de cocaína à Europa pelos portos de Itajaí e Rio Grande, com bloqueio de até R$ 93,2 milhões.",
+    "Reportagem aponta que a cocaína achada em caixas de mar de navios em 2026 já soma cerca de 630 kg, seis vezes o total de 2025."
    ],
-   "noticias": [],
+   "noticias": [
+    {
+     "data": "2026-11-10",
+     "titulo": "PF deflagra Operação Recycling contra lavagem de dinheiro de família do setor portuário ligada ao tráfico pelos portos de Itajaí e Rio Grande",
+     "local": "Itajaí (SC)",
+     "categoria": "Operação policial",
+     "fonte": "O Liberal / Estadão Conteúdo",
+     "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695",
+     "ocorrencia_id": "OC-2632"
+    },
+    {
+     "data": "2026-11-10",
+     "titulo": "Reportagem da BBC mostra avanço do uso de caixas de mar de navios para esconder cocaína no Porto de Santos",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "A Gazeta / BBC News Brasil",
+     "url": "https://www.agazeta.com.br/mundo/o-novo-esconderijo-da-cocaina-no-porto-de-santos-1126",
+     "ocorrencia_id": null
+    }
+   ],
    "numeros": {
-    "ocorrencias": 0,
+    "ocorrencias": 1,
     "kg": 0
    }
   },

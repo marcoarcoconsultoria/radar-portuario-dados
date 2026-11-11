@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-10",
- "total": 58,
+ "atualizado_em": "2026-11-11",
+ "total": 59,
  "rows": [
   {
    "id": "OC-2401",
@@ -1103,6 +1103,25 @@
    "local_aproximado": false,
    "fonte": "Correio",
    "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026"
+  },
+  {
+   "id": "OC-2632",
+   "ano": 2026,
+   "data": "2026-11-10",
+   "local": "Itajaí e Balneário Camboriú",
+   "uf": "SC",
+   "regiao": "Sul",
+   "polo": "Itajaí / Navegantes",
+   "x": 632.9,
+   "y": 825.5,
+   "lat": -26.9,
+   "lon": -48.65,
+   "categoria": "Operação policial",
+   "resumo": "Operação Recycling da PF, desdobramento da Hinterland, mirou família de empresários do setor portuário suspeita de lavar dinheiro do envio de cocaína à Europa pelos portos de Itajaí e Rio Grande. Bloqueio de até R$ 93,2 milhões, sequestro de 17 imóveis, 5 embarcações e mais de 100 veículos; um empresário preso.",
+   "kg": null,
+   "local_aproximado": false,
+   "fonte": "O Liberal / Estadão Conteúdo",
+   "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695"
   }
  ]
 }
