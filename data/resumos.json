@@ -1,18 +1,47 @@
 {
- "atualizado_em": "2026-11-11",
+ "atualizado_em": "2026-11-12",
  "resumos": [
   {
    "edicao": 6,
    "id": "2026-11-09",
    "inicio": "2026-11-09",
    "fim": "2026-11-15",
-   "publicado_em": "2026-11-11",
-   "titulo": "Operação Recycling mira lavagem do tráfico ligada ao setor portuário em Itajaí",
+   "publicado_em": "2026-11-12",
+   "titulo": "Ataque hacker na Autoridade Portuária de Santos e Operação Recycling em Itajaí marcam a semana",
    "destaques": [
+    "Sistemas da Autoridade Portuária de Santos foram atingidos por programa malicioso entre 6 e 7 de novembro; a PF abriu inquérito e a Cesportos-SP elevou para nível II a segurança nos acessos. Operações de navios e cargas foram mantidas.",
     "PF deflagrou a Operação Recycling em Itajaí (SC) contra família de empresários do setor portuário suspeita de lavar dinheiro do envio de cocaína à Europa pelos portos de Itajaí e Rio Grande, com bloqueio de até R$ 93,2 milhões.",
-    "Reportagem aponta que a cocaína achada em caixas de mar de navios em 2026 já soma cerca de 630 kg, seis vezes o total de 2025."
+    "Base Arpão 2 apreendeu 32,2 kg de pasta base e cocaína em lancha que seguia de Tabatinga para Manaus.",
+    "Receita reteve cerca de 400 mil itens irregulares, avaliados em R$ 35 milhões, no Porto de Vitória."
    ],
    "noticias": [
+    {
+     "data": "2026-11-11",
+     "titulo": "Receita retém R$ 35 milhões em itens irregulares no Porto de Vitória na Operação Fronteira",
+     "local": "Porto de Vitória (ES)",
+     "categoria": "Operação policial",
+     "fonte": "Agência Brasil / BR230",
+     "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria",
+     "ocorrencia_id": "OC-2634"
+    },
+    {
+     "data": "2026-11-10",
+     "titulo": "Cão farejador encontra mais de 32 kg de drogas em malas dentro de lancha no Solimões",
+     "local": "Base Arpão 2, Rio Solimões (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Em Tempo",
+     "url": "https://emtempo.com.br/612074/policia/cao-farejador-apreende-drogas-lancha-amazonas/",
+     "ocorrencia_id": "OC-2633"
+    },
+    {
+     "data": "2026-11-10",
+     "titulo": "Autoridade Portuária de Santos confirma ataque hacker, PF abre inquérito e Cesportos eleva nível de segurança nos acessos",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "Revista Sociedade Militar",
+     "url": "https://www.sociedademilitar.com.br/2026/11/porto-de-santos-confirma-ataque-hacker-pf-abre-inquerito-e-marinha-mobiliza-700-militares-na-regiao-mjd.html",
+     "ocorrencia_id": null
+    },
     {
      "data": "2026-11-10",
      "titulo": "PF deflagra Operação Recycling contra lavagem de dinheiro de família do setor portuário ligada ao tráfico pelos portos de Itajaí e Rio Grande",
@@ -33,8 +62,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 1,
-    "kg": 0
+    "ocorrencias": 3,
+    "kg": 32.2
    }
   },
   {

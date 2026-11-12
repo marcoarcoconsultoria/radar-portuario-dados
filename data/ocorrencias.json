@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-11",
- "total": 59,
+ "atualizado_em": "2026-11-12",
+ "total": 61,
  "rows": [
   {
    "id": "OC-2401",
@@ -1122,6 +1122,44 @@
    "local_aproximado": false,
    "fonte": "O Liberal / Estadão Conteúdo",
    "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695"
+  },
+  {
+   "id": "OC-2633",
+   "ano": 2026,
+   "data": "2026-11-10",
+   "local": "Base Fluvial Arpão 2, Rio Solimões",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Alto Solimões (AM)",
+   "x": 127.8,
+   "y": 230.4,
+   "lat": -3.6,
+   "lon": -68.9,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Cão farejador da Base Arpão 2 achou duas malas com 21 tabletes (30,6 kg de pasta base e 1,6 kg de cocaína) na lancha Expresso Kedson Araújo V, que seguia de Tabatinga para Manaus. Prejuízo estimado de R$ 1,6 milhão.",
+   "kg": 32.2,
+   "local_aproximado": true,
+   "fonte": "Em Tempo",
+   "url": "https://emtempo.com.br/612074/policia/cao-farejador-apreende-drogas-lancha-amazonas/"
+  },
+  {
+   "id": "OC-2634",
+   "ano": 2026,
+   "data": "2026-11-11",
+   "local": "Porto de Vitória",
+   "uf": "ES",
+   "regiao": "Sudeste",
+   "polo": "Porto de Vitória",
+   "x": 840.5,
+   "y": 668.3,
+   "lat": -20.32,
+   "lon": -40.29,
+   "categoria": "Operação policial",
+   "resumo": "Balanço parcial da Operação Fronteira da Receita Federal: cerca de 400 mil itens irregulares retidos desde o início de novembro (eletrônicos, brinquedos e cosméticos sem certificação, não declarados ou com indícios de pirataria), avaliados em R$ 35 milhões.",
+   "kg": null,
+   "local_aproximado": false,
+   "fonte": "Agência Brasil / BR230",
+   "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria"
   }
  ]
 }
