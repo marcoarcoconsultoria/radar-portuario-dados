@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-12",
- "total": 61,
+ "atualizado_em": "2026-11-13",
+ "total": 64,
  "rows": [
   {
    "id": "OC-2401",
@@ -1160,6 +1160,63 @@
    "local_aproximado": false,
    "fonte": "Agência Brasil / BR230",
    "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria"
+  },
+  {
+   "id": "OC-2635",
+   "ano": 2026,
+   "data": "2026-11-11",
+   "local": "Embarcação Obidense, Juruti",
+   "uf": "PA",
+   "regiao": "Norte",
+   "polo": "Juruti (PA)",
+   "x": 456.5,
+   "y": 190.5,
+   "lat": -2.16,
+   "lon": -56.09,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Equipes da Base Fluvial Candiru e do Grupamento Fluvial, com Receita Federal e PM, acharam com cão farejador 15 tabletes na bagagem de passageiro do barco Obidense (Manaus a Óbidos): 12,23 kg de maconha, 3,14 kg de crack e 0,56 kg de cocaína. O passageiro foi levado à delegacia de Juruti.",
+   "kg": 15.93,
+   "local_aproximado": false,
+   "fonte": "RBTV / Secom Pará",
+   "url": "https://rbtv.com.br/noticia/30787/base-fluvial-candiru-apreende-mais-de-15-quilos-de-drogas-em-embarcacao-no-baixo-amazonas"
+  },
+  {
+   "id": "OC-2636",
+   "ano": 2026,
+   "data": "2026-11-12",
+   "local": "Terminal de Passageiros Paulo Avelino, Jutaí",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Médio Solimões · Jutaí",
+   "x": 182.2,
+   "y": 207.3,
+   "lat": -2.75,
+   "lon": -66.77,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Policiais da Base Arpão 1, com cadela farejadora, acharam cerca de 10 kg de cocaína (8 tabletes) em mala no barco F/B E. Araújo, com destino a Manaus. Duas mulheres foram presas. Prejuízo estimado de R$ 750 mil.",
+   "kg": 10,
+   "local_aproximado": false,
+   "fonte": "Portal de Doduro",
+   "url": "https://portaldedoduro.com/2026/11/12/duas-mulheres-sao-presas-com-10-kg-de-cocaina-em-embarcacao-rumo-a-manaus/"
+  },
+  {
+   "id": "OC-2637",
+   "ano": 2026,
+   "data": "2026-10-24",
+   "local": "Porto de Santo Antônio do Içá",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Santo Antônio do Içá (AM)",
+   "x": 152.2,
+   "y": 216.9,
+   "lat": -3.1,
+   "lon": -67.94,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PF achou cerca de 10,8 kg de droga em compartimentos ocultos de uma mesa e duas cadeiras levadas em barco de passageiros de Tabatinga para Manaus. Uma mulher foi presa em flagrante.",
+   "kg": 10.8,
+   "local_aproximado": false,
+   "fonte": "Metrópoles",
+   "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-aborda-embarcacao-e-acha-drogas-em-compartimentos-secretos-de-moveis"
   }
  ]
 }

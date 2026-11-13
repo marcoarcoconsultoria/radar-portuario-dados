@@ -1,20 +1,38 @@
 {
- "atualizado_em": "2026-11-12",
+ "atualizado_em": "2026-11-13",
  "resumos": [
   {
    "edicao": 6,
    "id": "2026-11-09",
    "inicio": "2026-11-09",
    "fim": "2026-11-15",
-   "publicado_em": "2026-11-12",
-   "titulo": "Ataque hacker na Autoridade Portuária de Santos e Operação Recycling em Itajaí marcam a semana",
+   "publicado_em": "2026-11-13",
+   "titulo": "Ataque hacker em Santos, Operação Recycling em Itajaí e apreensões nos rios da Amazônia marcam a semana",
    "destaques": [
-    "Sistemas da Autoridade Portuária de Santos foram atingidos por programa malicioso entre 6 e 7 de novembro; a PF abriu inquérito e a Cesportos-SP elevou para nível II a segurança nos acessos. Operações de navios e cargas foram mantidas.",
-    "PF deflagrou a Operação Recycling em Itajaí (SC) contra família de empresários do setor portuário suspeita de lavar dinheiro do envio de cocaína à Europa pelos portos de Itajaí e Rio Grande, com bloqueio de até R$ 93,2 milhões.",
-    "Base Arpão 2 apreendeu 32,2 kg de pasta base e cocaína em lancha que seguia de Tabatinga para Manaus.",
+    "Sistemas da Autoridade Portuária de Santos foram atingidos por programa malicioso entre 6 e 7 de novembro; a PF abriu inquérito e a Cesportos-SP elevou para nível II a segurança nos acessos.",
+    "PF deflagrou a Operação Recycling em Itajaí (SC) contra família de empresários do setor portuário suspeita de lavar dinheiro do envio de cocaína à Europa, com bloqueio de até R$ 93,2 milhões.",
+    "Nos rios da Amazônia, três apreensões em barcos somaram cerca de 58 kg de drogas: 32,2 kg na Base Arpão 2, quase 16 kg em Juruti (PA) e 10 kg em Jutaí (AM), com duas presas.",
     "Receita reteve cerca de 400 mil itens irregulares, avaliados em R$ 35 milhões, no Porto de Vitória."
    ],
    "noticias": [
+    {
+     "data": "2026-11-12",
+     "titulo": "Duas mulheres são presas com 10 kg de cocaína em barco rumo a Manaus, em Jutaí",
+     "local": "Jutaí (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal de Doduro",
+     "url": "https://portaldedoduro.com/2026/11/12/duas-mulheres-sao-presas-com-10-kg-de-cocaina-em-embarcacao-rumo-a-manaus/",
+     "ocorrencia_id": "OC-2636"
+    },
+    {
+     "data": "2026-11-11",
+     "titulo": "Base Fluvial Candiru apreende quase 16 kg de drogas em barco no Baixo Amazonas",
+     "local": "Juruti (PA)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "RBTV / Secom Pará",
+     "url": "https://rbtv.com.br/noticia/30787/base-fluvial-candiru-apreende-mais-de-15-quilos-de-drogas-em-embarcacao-no-baixo-amazonas",
+     "ocorrencia_id": "OC-2635"
+    },
     {
      "data": "2026-11-11",
      "titulo": "Receita retém R$ 35 milhões em itens irregulares no Porto de Vitória na Operação Fronteira",
@@ -62,8 +80,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 3,
-    "kg": 32.2
+    "ocorrencias": 5,
+    "kg": 58.13
    }
   },
   {
