@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-13",
- "total": 64,
+ "atualizado_em": "2026-11-14",
+ "total": 66,
  "rows": [
   {
    "id": "OC-2401",
@@ -1217,6 +1217,44 @@
    "local_aproximado": false,
    "fonte": "Metrópoles",
    "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-aborda-embarcacao-e-acha-drogas-em-compartimentos-secretos-de-moveis"
+  },
+  {
+   "id": "OC-2638",
+   "ano": 2026,
+   "data": "2026-11-10",
+   "local": "Rodovia Washington Luís (SP-310), km 201, Itirapina",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "polo": "Itirapina (SP)",
+   "x": 657.3,
+   "y": 706.9,
+   "lat": -22.25,
+   "lon": -47.82,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PM Rodoviária, com o Gefron de Mato Grosso, achou 540 kg de cocaína (500 tijolos em 17 fardos) em contêiner refrigerado com carne bovina que saiu de Mato Grosso e seria embarcado no Porto de Paranaguá para o exterior. Motorista de 28 anos preso em flagrante e levado à PF de Araraquara. Valor estimado de R$ 27 milhões.",
+   "kg": 540,
+   "local_aproximado": false,
+   "fonte": "ND Mais",
+   "url": "https://ndmais.com.br/seguranca/caminhoneiro-carne-bovina-500-tijolos-cocaina-paranagua/"
+  },
+  {
+   "id": "OC-2639",
+   "ano": 2026,
+   "data": "2026-11-12",
+   "local": "Base Integrada Fluvial Candiru, Rio Amazonas, Óbidos",
+   "uf": "PA",
+   "regiao": "Norte",
+   "polo": "Óbidos (PA)",
+   "x": 471.1,
+   "y": 183.9,
+   "lat": -1.9,
+   "lon": -55.52,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PM do Pará (2º BME), com o cão Tupã, achou 33 tabletes com 37,45 kg de substância suspeita em fundo falso de uma Chevrolet Montana transportada no NM Amazon Star, de Manaus para Belém. Material entregue à Polícia Civil na Base Candiru; tipo de droga a confirmar. Data provável; a notícia traz o dia de forma inconsistente.",
+   "kg": 37.45,
+   "local_aproximado": true,
+   "fonte": "O Impacto",
+   "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/"
   }
  ]
 }

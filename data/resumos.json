@@ -1,20 +1,65 @@
 {
- "atualizado_em": "2026-11-13",
+ "atualizado_em": "2026-11-14",
  "resumos": [
   {
    "edicao": 6,
    "id": "2026-11-09",
    "inicio": "2026-11-09",
    "fim": "2026-11-15",
-   "publicado_em": "2026-11-13",
-   "titulo": "Ataque hacker em Santos, Operação Recycling em Itajaí e apreensões nos rios da Amazônia marcam a semana",
+   "publicado_em": "2026-11-14",
+   "titulo": "540 kg de cocaína rumo a Paranaguá, ataques hacker a terminais e apreensões nos rios da Amazônia marcam a semana",
    "destaques": [
-    "Sistemas da Autoridade Portuária de Santos foram atingidos por programa malicioso entre 6 e 7 de novembro; a PF abriu inquérito e a Cesportos-SP elevou para nível II a segurança nos acessos.",
-    "PF deflagrou a Operação Recycling em Itajaí (SC) contra família de empresários do setor portuário suspeita de lavar dinheiro do envio de cocaína à Europa, com bloqueio de até R$ 93,2 milhões.",
-    "Nos rios da Amazônia, três apreensões em barcos somaram cerca de 58 kg de drogas: 32,2 kg na Base Arpão 2, quase 16 kg em Juruti (PA) e 10 kg em Jutaí (AM), com duas presas.",
-    "Receita reteve cerca de 400 mil itens irregulares, avaliados em R$ 35 milhões, no Porto de Vitória."
+    "PM Rodoviária apreendeu 540 kg de cocaína em Itirapina (SP), escondidos em contêiner de carne que seria embarcado no Porto de Paranaguá; motorista preso.",
+    "Autoridade Portuária de Santos confirmou pedido de resgate após o ataque hacker de 6 de novembro, e a Portonave foi citada por grupo criminoso digital; a PF investiga o caso de Santos.",
+    "PF deflagrou a Operação Recycling em Itajaí (SC) contra família do setor portuário suspeita de lavar dinheiro do tráfico, com bloqueio de até R$ 93,2 milhões.",
+    "Nos rios da Amazônia, quatro apreensões em barcos somaram cerca de 95 kg de drogas, com destaque para 37 kg na Base Candiru e 32 kg na Base Arpão 2."
    ],
    "noticias": [
+    {
+     "data": "2026-11-13",
+     "titulo": "Operação Fronteira da Receita encerra fase ostensiva no Porto de Rio Grande após 10 dias e mais de 3.600 km desde Tabatinga; balanço sai em 16/11",
+     "local": "Porto de Rio Grande (RS)",
+     "categoria": "Operação policial",
+     "fonte": "Jornal de Brasília",
+     "url": "https://jornaldebrasilia.com.br/noticias/brasil/operacao-fronteira-encerra-edicao-historica-no-porto-de-rio-grande",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-13",
+     "titulo": "Portonave é citada por grupo hacker que pede US$ 5,8 milhões; terminal diz não haver evidência de invasão e reforça segurança digital",
+     "local": "Navegantes (SC)",
+     "categoria": "Invasão de terminal",
+     "fonte": "Transporte Moderno",
+     "url": "https://transportemoderno.com.br/2026/11/13/portonave-e-citada-por-hackers-e-reforca-seguranca-digital/",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-12",
+     "titulo": "Base Candiru apreende 37 kg de drogas em fundo falso de carro transportado em barco de Manaus para Belém",
+     "local": "Óbidos (PA)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "O Impacto",
+     "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/",
+     "ocorrencia_id": "OC-2639"
+    },
+    {
+     "data": "2026-11-12",
+     "titulo": "Autoridade Portuária de Santos confirma pedido de resgate após invasão cibernética; valor não foi pago e site segue fora do ar",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "Urgente News",
+     "url": "https://urgentenews.org/santos/2026/11/12/porto-de-santos-recebe-pedido-de-resgate-apos-invasao-cibernetica-site-segue-fora-do-ar.html",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-10",
+     "titulo": "PM Rodoviária apreende 540 kg de cocaína em contêiner de carne que seguia para o Porto de Paranaguá",
+     "local": "Itirapina (SP)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "ND Mais",
+     "url": "https://ndmais.com.br/seguranca/caminhoneiro-carne-bovina-500-tijolos-cocaina-paranagua/",
+     "ocorrencia_id": "OC-2638"
+    },
     {
      "data": "2026-11-12",
      "titulo": "Duas mulheres são presas com 10 kg de cocaína em barco rumo a Manaus, em Jutaí",
@@ -80,8 +125,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 5,
-    "kg": 58.13
+    "ocorrencias": 7,
+    "kg": 635.58
    }
   },
   {
