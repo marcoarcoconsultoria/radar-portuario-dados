@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-15",
- "total": 66,
+ "atualizado_em": "2026-11-16",
+ "total": 69,
  "rows": [
   {
    "id": "OC-2401",
@@ -1255,6 +1255,63 @@
    "local_aproximado": true,
    "fonte": "O Impacto",
    "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/"
+  },
+  {
+   "id": "OC-2640",
+   "ano": 2026,
+   "data": "2026-11-14",
+   "local": "Base Fluvial Arpão 2, Rio Solimões, Coari",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Rio Solimões · Coari",
+   "x": 275.7,
+   "y": 240.9,
+   "lat": -4.08,
+   "lon": -63.14,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Cão farejador da PM achou 5,9 kg de cocaína e 2,3 kg de pasta base escondidos no bebedouro da embarcação GM Oliveira, que seguia de Tabatinga para Manaus. Valor estimado de R$ 557,5 mil.",
+   "kg": 8.2,
+   "local_aproximado": false,
+   "fonte": "Portal de Doduro",
+   "url": "https://portaldedoduro.com/2026/11/15/entorpecentes-avaliados-em-r-5575-mil-sao-descobertos-em-bebedouro-de-embarcacao-no-am/"
+  },
+  {
+   "id": "OC-2641",
+   "ano": 2026,
+   "data": "2026-11-14",
+   "local": "Porto de Parintins",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Parintins (AM)",
+   "x": 439.8,
+   "y": 202.6,
+   "lat": -2.63,
+   "lon": -56.74,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Cão farejador apontou encomenda em embarcação vinda de Manaus com 14 tabletes de pasta base de cocaína e maconha, cerca de 15,2 kg. Valor estimado de R$ 537,3 mil.",
+   "kg": 15.2,
+   "local_aproximado": false,
+   "fonte": "Segundo a Segundo",
+   "url": "https://segundoasegundo.com.br/2026/11/policia-militar-apreende-drogas/"
+  },
+  {
+   "id": "OC-2642",
+   "ano": 2026,
+   "data": "2026-11-14",
+   "local": "Porto de Imbituba",
+   "uf": "SC",
+   "regiao": "Sul",
+   "polo": "Porto de Imbituba",
+   "x": 631.2,
+   "y": 859.6,
+   "lat": -28.23,
+   "lon": -48.66,
+   "categoria": "Operação policial",
+   "resumo": "Receita Federal reteve contêiner vindo da China com cerca de 30 mil cigarros eletrônicos em 200 caixas, em trânsito para outro país da América do Sul. Valor estimado acima de R$ 5,1 milhões.",
+   "kg": null,
+   "local_aproximado": false,
+   "fonte": "Mix Vale",
+   "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/"
   }
  ]
 }

@@ -1,6 +1,22 @@
 {
- "atualizado_em": "2026-11-15",
+ "atualizado_em": "2026-11-16",
  "resumos": [
+  {
+   "edicao": 7,
+   "id": "2026-11-16",
+   "inicio": "2026-11-16",
+   "fim": "2026-11-22",
+   "publicado_em": "2026-11-16",
+   "titulo": "Semana de 16 a 22 de novembro",
+   "destaques": [
+    "Sem ocorrências noticiadas até agora nesta semana."
+   ],
+   "noticias": [],
+   "numeros": {
+    "ocorrencias": 0,
+    "kg": 0
+   }
+  },
   {
    "edicao": 6,
    "id": "2026-11-09",
@@ -12,9 +28,36 @@
     "PM Rodoviária apreendeu 540 kg de cocaína em Itirapina (SP), escondidos em contêiner de carne que seria embarcado no Porto de Paranaguá; motorista preso.",
     "Autoridade Portuária de Santos confirmou pedido de resgate após o ataque hacker de 6 de novembro, e a Portonave foi citada por grupo criminoso digital; a PF investiga o caso de Santos.",
     "PF deflagrou a Operação Recycling em Itajaí (SC) contra família do setor portuário suspeita de lavar dinheiro do tráfico, com bloqueio de até R$ 93,2 milhões.",
-    "Nos rios da Amazônia, quatro apreensões em barcos somaram cerca de 95 kg de drogas, com destaque para 37 kg na Base Candiru e 32 kg na Base Arpão 2."
+    "Nos rios da Amazônia, seis apreensões em barcos somaram cerca de 118 kg de drogas, com destaque para 37 kg na Base Candiru, 32 kg na Base Arpão 2 e 15 kg no Porto de Parintins."
    ],
    "noticias": [
+    {
+     "data": "2026-11-15",
+     "titulo": "Receita apreende cerca de 30 mil cigarros eletrônicos em contêiner vindo da China no Porto de Imbituba",
+     "local": "Porto de Imbituba (SC)",
+     "categoria": "Operação policial",
+     "fonte": "Mix Vale",
+     "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/",
+     "ocorrencia_id": "OC-2642"
+    },
+    {
+     "data": "2026-11-15",
+     "titulo": "Base Arpão 2 acha mais de 8 kg de cocaína e pasta base em bebedouro de barco que ia de Tabatinga a Manaus",
+     "local": "Coari (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal de Doduro",
+     "url": "https://portaldedoduro.com/2026/11/15/entorpecentes-avaliados-em-r-5575-mil-sao-descobertos-em-bebedouro-de-embarcacao-no-am/",
+     "ocorrencia_id": "OC-2640"
+    },
+    {
+     "data": "2026-11-15",
+     "titulo": "PM apreende mais de 15 kg de drogas em encomenda de embarcação no Porto de Parintins",
+     "local": "Parintins (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Segundo a Segundo",
+     "url": "https://segundoasegundo.com.br/2026/11/policia-militar-apreende-drogas/",
+     "ocorrencia_id": "OC-2641"
+    },
     {
      "data": "2026-11-13",
      "titulo": "Operação Fronteira da Receita encerra fase ostensiva no Porto de Rio Grande após 10 dias e mais de 3.600 km desde Tabatinga; balanço sai em 16/11",
@@ -125,8 +168,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 7,
-    "kg": 635.58
+    "ocorrencias": 10,
+    "kg": 658.98
    }
   },
   {
