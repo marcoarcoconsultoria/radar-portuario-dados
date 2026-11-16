@@ -19,7 +19,8 @@
    "kg": 581,
    "local_aproximado": false,
    "fonte": "Jornal nos Bairros",
-   "url": "https://jornalnosbairros.com.br/wp/2024/01/receita-e-pf-apreendem-581-kg-de-cocaina-no-porto-de-itapoa/"
+   "url": "https://jornalnosbairros.com.br/wp/2024/01/receita-e-pf-apreendem-581-kg-de-cocaina-no-porto-de-itapoa/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2402",
@@ -38,7 +39,8 @@
    "kg": 219,
    "local_aproximado": false,
    "fonte": "Fonte Boa em Tempo",
-   "url": "https://www.fonteboaemtempo.com.br/noticia/coari-base-arpao-policia-faz-apreensao-de-r-10-milhoes-em-pasta-base-de-cocaina-em-embarcacao-que-saiu-de-tabatinga"
+   "url": "https://www.fonteboaemtempo.com.br/noticia/coari-base-arpao-policia-faz-apreensao-de-r-10-milhoes-em-pasta-base-de-cocaina-em-embarcacao-que-saiu-de-tabatinga",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2403",
@@ -57,7 +59,8 @@
    "kg": 550,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2024/08/policia-encontra-550-kg-de-cocaina-em.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2024/08/policia-encontra-550-kg-de-cocaina-em.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2404",
@@ -76,7 +79,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Correio Braziliense",
-   "url": "https://www.correiobraziliense.com.br/brasil/2024/07/6899405-piratas-da-amazonia-atacam-embarcacoes-de-petroleo.html"
+   "url": "https://www.correiobraziliense.com.br/brasil/2024/07/6899405-piratas-da-amazonia-atacam-embarcacoes-de-petroleo.html",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2405",
@@ -95,7 +99,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "BNC Amazonas",
-   "url": "https://bncamazonas.com.br/municipios/lancha-com-23-passageiros-e-sequestrada-por-piratas-no-rio-amazonas/"
+   "url": "https://bncamazonas.com.br/municipios/lancha-com-23-passageiros-e-sequestrada-por-piratas-no-rio-amazonas/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2406",
@@ -114,7 +119,8 @@
    "kg": 500,
    "local_aproximado": false,
    "fonte": "Jornal Pequeno",
-   "url": "https://jornalpequeno.com.br/2024/10/05/operacao-da-policia-federal-apreende-carga-de-cocaina-em-navio-fundeado-no-porto-do-itaqui/"
+   "url": "https://jornalpequeno.com.br/2024/10/05/operacao-da-policia-federal-apreende-carga-de-cocaina-em-navio-fundeado-no-porto-do-itaqui/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2407",
@@ -133,7 +139,8 @@
    "kg": 422,
    "local_aproximado": false,
    "fonte": "Receita Federal",
-   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2024/outubro/receita-federal-realiza-a-retencao-de-422-kg-de-cocaina-em-navegantes-sc"
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2024/outubro/receita-federal-realiza-a-retencao-de-422-kg-de-cocaina-em-navegantes-sc",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2408",
@@ -152,7 +159,8 @@
    "kg": 1200,
    "local_aproximado": false,
    "fonte": "Portal de Prefeitura",
-   "url": "https://portaldeprefeitura.com.br/brasil/receita-federal-e-pf-apreendem-12-tonelada-de-cocaica-no-porto-de/582279/"
+   "url": "https://portaldeprefeitura.com.br/brasil/receita-federal-e-pf-apreendem-12-tonelada-de-cocaica-no-porto-de/582279/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2409",
@@ -171,7 +179,8 @@
    "kg": 969,
    "local_aproximado": false,
    "fonte": "Sindireceita",
-   "url": "https://sindireceita.org.br/noticias/2024/11/06/rfb-apreende-quase-1-tonelada-de-cocaina-no-porto-de-salvador"
+   "url": "https://sindireceita.org.br/noticias/2024/11/06/rfb-apreende-quase-1-tonelada-de-cocaina-no-porto-de-salvador",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2410",
@@ -190,7 +199,8 @@
    "kg": 29,
    "local_aproximado": false,
    "fonte": "O Povo",
-   "url": "https://www.opovo.com.br/noticias/fortaleza/2024/11/21/porto-do-pecem-pf-intercepta-29kg-de-cocaina-escondidos-no-casco-de-um-navio-com-destino-a-espanha.html"
+   "url": "https://www.opovo.com.br/noticias/fortaleza/2024/11/21/porto-do-pecem-pf-intercepta-29kg-de-cocaina-escondidos-no-casco-de-um-navio-com-destino-a-espanha.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2411",
@@ -209,7 +219,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2024/11/pf-deflagra-operacao-contra-o-trafico.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2024/11/pf-deflagra-operacao-contra-o-trafico.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2412",
@@ -228,7 +239,8 @@
    "kg": 1000,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2024/12/receita-federal-apreende-1-tonelada-de.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2024/12/receita-federal-apreende-1-tonelada-de.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2501",
@@ -247,7 +259,8 @@
    "kg": 435,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2025/04/pf-deflagra-operacao-contra-trafico.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2025/04/pf-deflagra-operacao-contra-trafico.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2502",
@@ -266,7 +279,8 @@
    "kg": 133,
    "local_aproximado": false,
    "fonte": "O Povo",
-   "url": "https://www.opovo.com.br/noticias/ceara/sao-goncalo-do-amarante/2025/02/11/mais-de-100-kg-de-cocaina-sao-apreendidos-no-porto-do-pecem.html"
+   "url": "https://www.opovo.com.br/noticias/ceara/sao-goncalo-do-amarante/2025/02/11/mais-de-100-kg-de-cocaina-sao-apreendidos-no-porto-do-pecem.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2503",
@@ -285,7 +299,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "BNC Amazonas",
-   "url": "https://bncamazonas.com.br/municipios/amazonas-ataque-de-piratas-deixa-dois-mortos-no-rio-solimoes/"
+   "url": "https://bncamazonas.com.br/municipios/amazonas-ataque-de-piratas-deixa-dois-mortos-no-rio-solimoes/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2504",
@@ -304,7 +319,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Nossas Notícias",
-   "url": "https://nossasnoticias.com.br/2025/02/27/quase-meia-tonelada-de-cocaina-e-apreendida-em-carga-de-laranjas-no-porto-de-itapoa/"
+   "url": "https://nossasnoticias.com.br/2025/02/27/quase-meia-tonelada-de-cocaina-e-apreendida-em-carga-de-laranjas-no-porto-de-itapoa/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2505",
@@ -323,7 +339,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2025/04/pf-deflagra-operacao-contra-trafico.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2025/04/pf-deflagra-operacao-contra-trafico.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2506",
@@ -342,7 +359,8 @@
    "kg": 550,
    "local_aproximado": false,
    "fonte": "Portal Manaós",
-   "url": "https://portalmanaos.com.br/2025/04/17/operacao-arpao-03-prende-seis-pessoas-transportando-mais-de-500-kg-de-drogas-em-balsas/"
+   "url": "https://portalmanaos.com.br/2025/04/17/operacao-arpao-03-prende-seis-pessoas-transportando-mais-de-500-kg-de-drogas-em-balsas/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2507",
@@ -361,7 +379,8 @@
    "kg": 535,
    "local_aproximado": false,
    "fonte": "Feaduaneiros",
-   "url": "https://feaduaneiros.portaldocomercio.org.br/sem-categoria/receita-federal-apreende-mais-de-meia-tonelada-de-cocaina-noporto-de-salvador/"
+   "url": "https://feaduaneiros.portaldocomercio.org.br/sem-categoria/receita-federal-apreende-mais-de-meia-tonelada-de-cocaina-noporto-de-salvador/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2508",
@@ -380,7 +399,8 @@
    "kg": 50,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2025/07/receita-federal-apreende-50-kg-de.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2025/07/receita-federal-apreende-50-kg-de.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2509",
@@ -399,7 +419,8 @@
    "kg": 48.5,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2025/08/receita-federal-apreende-485-kg-de.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2025/08/receita-federal-apreende-485-kg-de.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2510",
@@ -418,7 +439,8 @@
    "kg": 30,
    "local_aproximado": false,
    "fonte": "O Liberal",
-   "url": "https://www.oliberal.com/policia/pf-e-receita-federal-apreendem-cocaina-no-porto-de-barcarena-1.1014264"
+   "url": "https://www.oliberal.com/policia/pf-e-receita-federal-apreendem-cocaina-no-porto-de-barcarena-1.1014264",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2511",
@@ -437,7 +459,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2025/10/receita-federal-e-policia-federal.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2025/10/receita-federal-e-policia-federal.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2512",
@@ -456,7 +479,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Portal Marcos Santos",
-   "url": "https://www.portalmarcossantos.com.br/2025/10/09/piratas-atacam-e-incendeiam-embarcacoes-com-combustivel-no-rio-amazonas/"
+   "url": "https://www.portalmarcossantos.com.br/2025/10/09/piratas-atacam-e-incendeiam-embarcacoes-com-combustivel-no-rio-amazonas/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2513",
@@ -475,7 +499,8 @@
    "kg": 482,
    "local_aproximado": false,
    "fonte": "Agência Gov",
-   "url": "https://agenciagov.ebc.com.br/noticias/202510/receita-federal-apreende-quase-meia-tonelada-de-cocaina-no-porto-de-santos"
+   "url": "https://agenciagov.ebc.com.br/noticias/202510/receita-federal-apreende-quase-meia-tonelada-de-cocaina-no-porto-de-santos",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2514",
@@ -494,7 +519,8 @@
    "kg": 1200,
    "local_aproximado": false,
    "fonte": "Banda B",
-   "url": "https://www.bandab.com.br/seguranca/policia-apreende-mais-de-1-tonelada-de-cocaina-em-paranagua/amp/"
+   "url": "https://www.bandab.com.br/seguranca/policia-apreende-mais-de-1-tonelada-de-cocaina-em-paranagua/amp/",
+   "ambito": "Fora do porto"
   },
   {
    "id": "OC-2515",
@@ -513,7 +539,8 @@
    "kg": 104,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2025/12/receita-federal-apreende-104-kg-de.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2025/12/receita-federal-apreende-104-kg-de.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2601",
@@ -532,7 +559,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Revista Cenarium",
-   "url": "https://revistacenarium.com.br/assalto-a-balsa-no-rio-madeira-tem-confronto-entre-escolta-e-piratas-um-e-morto/"
+   "url": "https://revistacenarium.com.br/assalto-a-balsa-no-rio-madeira-tem-confronto-entre-escolta-e-piratas-um-e-morto/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2602",
@@ -551,7 +579,8 @@
    "kg": 38,
    "local_aproximado": false,
    "fonte": "TVCI",
-   "url": "https://tvci.com.br/destaque-1/receita-federal-realiza-primeira-apreensao-de-cocaina-em-2026-no-tcp/"
+   "url": "https://tvci.com.br/destaque-1/receita-federal-realiza-primeira-apreensao-de-cocaina-em-2026-no-tcp/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2603",
@@ -570,7 +599,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "VTV News",
-   "url": "https://vtvnews.com.br/baixada-santista/policia-civil-desarticula-esquema-de-roubo-e-desvio-de-cargas-no-porto-de-santos-pm/"
+   "url": "https://vtvnews.com.br/baixada-santista/policia-civil-desarticula-esquema-de-roubo-e-desvio-de-cargas-no-porto-de-santos-pm/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2604",
@@ -589,7 +619,8 @@
    "kg": 400,
    "local_aproximado": false,
    "fonte": "Portal Marcos Santos",
-   "url": "https://www.portalmarcossantos.com.br/2026/05/23/apreensao-drogas-porto-bertollini-manaus/"
+   "url": "https://www.portalmarcossantos.com.br/2026/05/23/apreensao-drogas-porto-bertollini-manaus/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2605",
@@ -608,7 +639,8 @@
    "kg": 91,
    "local_aproximado": false,
    "fonte": "Real Rádio TV Brasil",
-   "url": "https://realradiotvbrasil.com.br/2026/05/base-arpao-forcas-de-seguranca-apreendem-mais-de-91-quilos-de-drogas-escondidos-no-porao-do-ferry-boat-no-rio-solimoes/"
+   "url": "https://realradiotvbrasil.com.br/2026/05/base-arpao-forcas-de-seguranca-apreendem-mais-de-91-quilos-de-drogas-escondidos-no-porao-do-ferry-boat-no-rio-solimoes/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2606",
@@ -627,7 +659,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2026/06/guarda-portuaria-evita-roubo-em.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2026/06/guarda-portuaria-evita-roubo-em.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2607",
@@ -646,7 +679,8 @@
    "kg": 150,
    "local_aproximado": false,
    "fonte": "Portal Tela",
-   "url": "https://www.portaltela.com/noticias/geral/2026/06/19/150-kg-de-cocaina-sao-apreendidos-em-conteineres-em-sc/"
+   "url": "https://www.portaltela.com/noticias/geral/2026/06/19/150-kg-de-cocaina-sao-apreendidos-em-conteineres-em-sc/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2608",
@@ -665,7 +699,8 @@
    "kg": 43,
    "local_aproximado": false,
    "fonte": "Monólitos Post",
-   "url": "https://www.monolitospost.com/2026/06/24/policia-federal-apreende-cerca-de-43kg-de-cocaina-em-navio-no-porto-do-mucuripe/"
+   "url": "https://www.monolitospost.com/2026/06/24/policia-federal-apreende-cerca-de-43kg-de-cocaina-em-navio-no-porto-do-mucuripe/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2609",
@@ -684,7 +719,8 @@
    "kg": 448,
    "local_aproximado": false,
    "fonte": "OVALE",
-   "url": "https://sampi.net.br/ovale/noticias/2990434/geral/2026/07/receita-federal-apreende-448-kg-de-cocaina-em-operacoes-no-porto"
+   "url": "https://sampi.net.br/ovale/noticias/2990434/geral/2026/07/receita-federal-apreende-448-kg-de-cocaina-em-operacoes-no-porto",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2610",
@@ -703,7 +739,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Rios de Notícias",
-   "url": "https://www.riosdenoticias.com.br/piratas-agridem-pescador-no-rio-solimoes-e-fogem-apos-troca-de-tiros-com-a-policia/"
+   "url": "https://www.riosdenoticias.com.br/piratas-agridem-pescador-no-rio-solimoes-e-fogem-apos-troca-de-tiros-com-a-policia/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2611",
@@ -722,7 +759,8 @@
    "kg": 856,
    "local_aproximado": false,
    "fonte": "Polícia Federal",
-   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/08/policia-federal-apreende-856-kg-de-cocaina-no-porto-de-salvador-ba"
+   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/08/policia-federal-apreende-856-kg-de-cocaina-no-porto-de-salvador-ba",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2612",
@@ -741,7 +779,8 @@
    "kg": 36.5,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2026/08/receita-federal-apreende-365-kg-de.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2026/08/receita-federal-apreende-365-kg-de.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2613",
@@ -760,7 +799,8 @@
    "kg": 43,
    "local_aproximado": false,
    "fonte": "Segurança Portuária em Foco",
-   "url": "https://www.segurancaportuariaemfoco.com.br/2026/08/receita-federal-apreende-43-kg-de.html"
+   "url": "https://www.segurancaportuariaemfoco.com.br/2026/08/receita-federal-apreende-43-kg-de.html",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2614",
@@ -779,26 +819,28 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Canal 92 AM",
-   "url": "https://canal92am.com/amazonas/nove-piratas-armados-invadem-embarcacao-no-rio-solimoes-e-deixam-tripulantes-em-panico/"
+   "url": "https://canal92am.com/amazonas/nove-piratas-armados-invadem-embarcacao-no-rio-solimoes-e-deixam-tripulantes-em-panico/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2615",
    "ano": 2026,
    "data": "2026-09-10",
-   "local": "Rio Solimões (município não informado)",
+   "local": "Rio Solimões, proximidades de Alvarães",
    "uf": "AM",
    "regiao": "Norte",
-   "polo": "Rio Solimões · Coari",
-   "x": 275.7,
-   "y": 240.9,
-   "lat": -4.08,
-   "lon": -63.14,
+   "polo": "Médio Solimões · Alvarães",
+   "x": 232.9,
+   "y": 219.1,
+   "lat": -3.22,
+   "lon": -64.8,
    "categoria": "Pirataria fluvial",
-   "resumo": "Criminosos armados renderam mais de 200 pessoas no ferry boat Rosa de Saron por cerca de 3 horas. Passageiros agredidos e roubados.",
+   "resumo": "Criminosos armados com fuzis renderam mais de 200 pessoas no ferry boat Rosa de Saron, na viagem inaugural Japurá a Manaus, por cerca de 3 horas. Passageiros agredidos e roubados.",
    "kg": null,
    "local_aproximado": true,
-   "fonte": "NC News",
-   "url": "https://ncnews.com.br/2026/09/12/passageiros-sao-rendidos-e-agredidos-durante-ataque-de-piratas-a-embarcacao-no-amazonas/"
+   "fonte": "Portal SGC",
+   "url": "https://sgc.com.br/noticia/5/449136/piratas-com-fuzis-invadem-ferry-boat-torturam-e-roubam-passageiros",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2616",
@@ -817,7 +859,8 @@
    "kg": 140,
    "local_aproximado": false,
    "fonte": "Polícia Federal",
-   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apreende-140-kg-de-cocaina-escondidos-no-casco-de-navio-no-espirito-santo"
+   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apreende-140-kg-de-cocaina-escondidos-no-casco-de-navio-no-espirito-santo",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2617",
@@ -836,7 +879,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "ac24horas",
-   "url": "https://ac24horas.com/2026/09/24/tres-pms-sao-presos-no-porto-de-manaus-suspeitos-de-tentar-se-apropriar-de-carga-de-drogas/"
+   "url": "https://ac24horas.com/2026/09/24/tres-pms-sao-presos-no-porto-de-manaus-suspeitos-de-tentar-se-apropriar-de-carga-de-drogas/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2618",
@@ -855,7 +899,8 @@
    "kg": 126,
    "local_aproximado": false,
    "fonte": "Portal de Doduro",
-   "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/"
+   "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/",
+   "ambito": "Fora do porto"
   },
   {
    "id": "OC-2619",
@@ -874,7 +919,8 @@
    "kg": 16.5,
    "local_aproximado": false,
    "fonte": "Receita Federal",
-   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos"
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2620",
@@ -893,7 +939,8 @@
    "kg": 72.7,
    "local_aproximado": false,
    "fonte": "Blog do Mario Adolfo",
-   "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/"
+   "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2621",
@@ -912,7 +959,8 @@
    "kg": 33,
    "local_aproximado": false,
    "fonte": "Metrópoles",
-   "url": "https://www.metropoles.com/sao-paulo/pf-apreende-cocaina-submersa-em-navio-e-mira-trafico-em-reduto-do-pcc"
+   "url": "https://www.metropoles.com/sao-paulo/pf-apreende-cocaina-submersa-em-navio-e-mira-trafico-em-reduto-do-pcc",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2622",
@@ -931,7 +979,8 @@
    "kg": 4426,
    "local_aproximado": false,
    "fonte": "ND+",
-   "url": "https://ndmais.com.br/seguranca/apreensao-de-cocaina-em-sc-maior-do-brasil/"
+   "url": "https://ndmais.com.br/seguranca/apreensao-de-cocaina-em-sc-maior-do-brasil/",
+   "ambito": "Fora do porto"
   },
   {
    "id": "OC-2623",
@@ -950,7 +999,8 @@
    "kg": 31.6,
    "local_aproximado": false,
    "fonte": "Portal Mato Grosso",
-   "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/"
+   "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2624",
@@ -969,7 +1019,8 @@
    "kg": 15.6,
    "local_aproximado": false,
    "fonte": "Portal Barelândia",
-   "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/"
+   "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2625",
@@ -988,7 +1039,8 @@
    "kg": 5.8,
    "local_aproximado": false,
    "fonte": "Rios de Notícias",
-   "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/"
+   "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2626",
@@ -1007,7 +1059,8 @@
    "kg": 16,
    "local_aproximado": false,
    "fonte": "O Chefão da Notícia",
-   "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/"
+   "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2627",
@@ -1026,7 +1079,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Agência Brasil, via Tribuna do Sertão",
-   "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio"
+   "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2628",
@@ -1045,7 +1099,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Primeira Página SC",
-   "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/"
+   "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2629",
@@ -1064,7 +1119,8 @@
    "kg": 4.35,
    "local_aproximado": false,
    "fonte": "Estado do Pará Online",
-   "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas"
+   "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2630",
@@ -1083,7 +1139,8 @@
    "kg": null,
    "local_aproximado": true,
    "fonte": "ac24horas",
-   "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/"
+   "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2631",
@@ -1102,7 +1159,8 @@
    "kg": 150,
    "local_aproximado": false,
    "fonte": "Correio",
-   "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026"
+   "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2632",
@@ -1121,7 +1179,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "O Liberal / Estadão Conteúdo",
-   "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695"
+   "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695",
+   "ambito": "Fora do porto"
   },
   {
    "id": "OC-2633",
@@ -1140,7 +1199,8 @@
    "kg": 32.2,
    "local_aproximado": true,
    "fonte": "Em Tempo",
-   "url": "https://emtempo.com.br/612074/policia/cao-farejador-apreende-drogas-lancha-amazonas/"
+   "url": "https://emtempo.com.br/612074/policia/cao-farejador-apreende-drogas-lancha-amazonas/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2634",
@@ -1159,7 +1219,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Agência Brasil / BR230",
-   "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria"
+   "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2635",
@@ -1178,7 +1239,8 @@
    "kg": 15.93,
    "local_aproximado": false,
    "fonte": "RBTV / Secom Pará",
-   "url": "https://rbtv.com.br/noticia/30787/base-fluvial-candiru-apreende-mais-de-15-quilos-de-drogas-em-embarcacao-no-baixo-amazonas"
+   "url": "https://rbtv.com.br/noticia/30787/base-fluvial-candiru-apreende-mais-de-15-quilos-de-drogas-em-embarcacao-no-baixo-amazonas",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2636",
@@ -1197,7 +1259,8 @@
    "kg": 10,
    "local_aproximado": false,
    "fonte": "Portal de Doduro",
-   "url": "https://portaldedoduro.com/2026/11/12/duas-mulheres-sao-presas-com-10-kg-de-cocaina-em-embarcacao-rumo-a-manaus/"
+   "url": "https://portaldedoduro.com/2026/11/12/duas-mulheres-sao-presas-com-10-kg-de-cocaina-em-embarcacao-rumo-a-manaus/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2637",
@@ -1216,7 +1279,8 @@
    "kg": 10.8,
    "local_aproximado": false,
    "fonte": "Metrópoles",
-   "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-aborda-embarcacao-e-acha-drogas-em-compartimentos-secretos-de-moveis"
+   "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-aborda-embarcacao-e-acha-drogas-em-compartimentos-secretos-de-moveis",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2638",
@@ -1235,7 +1299,8 @@
    "kg": 540,
    "local_aproximado": false,
    "fonte": "ND Mais",
-   "url": "https://ndmais.com.br/seguranca/caminhoneiro-carne-bovina-500-tijolos-cocaina-paranagua/"
+   "url": "https://ndmais.com.br/seguranca/caminhoneiro-carne-bovina-500-tijolos-cocaina-paranagua/",
+   "ambito": "Fora do porto"
   },
   {
    "id": "OC-2639",
@@ -1254,7 +1319,8 @@
    "kg": 37.45,
    "local_aproximado": true,
    "fonte": "O Impacto",
-   "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/"
+   "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2640",
@@ -1273,7 +1339,8 @@
    "kg": 8.2,
    "local_aproximado": false,
    "fonte": "Portal de Doduro",
-   "url": "https://portaldedoduro.com/2026/11/15/entorpecentes-avaliados-em-r-5575-mil-sao-descobertos-em-bebedouro-de-embarcacao-no-am/"
+   "url": "https://portaldedoduro.com/2026/11/15/entorpecentes-avaliados-em-r-5575-mil-sao-descobertos-em-bebedouro-de-embarcacao-no-am/",
+   "ambito": "Embarcação ou hidrovia"
   },
   {
    "id": "OC-2641",
@@ -1292,7 +1359,8 @@
    "kg": 15.2,
    "local_aproximado": false,
    "fonte": "Segundo a Segundo",
-   "url": "https://segundoasegundo.com.br/2026/11/policia-militar-apreende-drogas/"
+   "url": "https://segundoasegundo.com.br/2026/11/policia-militar-apreende-drogas/",
+   "ambito": "Porto ou terminal"
   },
   {
    "id": "OC-2642",
@@ -1311,7 +1379,8 @@
    "kg": null,
    "local_aproximado": false,
    "fonte": "Mix Vale",
-   "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/"
+   "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/",
+   "ambito": "Porto ou terminal"
   }
  ]
 }

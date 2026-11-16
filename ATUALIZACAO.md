@@ -2,10 +2,13 @@
 
 ## Ocorrências (`data/ocorrencias.json`)
 - Só entram casos de 2024 em diante, verificados na própria página da notícia.
-- Campos: `id`, `ano`, `data` (AAAA-MM-DD, data do fato), `local`, `uf`, `regiao`, `polo`, `x`, `y`, `lat`, `lon`, `categoria`, `resumo`, `kg`, `local_aproximado`, `fonte`, `url`.
+- Campos: `id`, `ano`, `data` (AAAA-MM-DD, data do fato), `local`, `uf`, `regiao`, `polo`, `x`, `y`, `lat`, `lon`, `categoria`, `resumo`, `kg`, `local_aproximado`, `fonte`, `url`, `ambito`.
 - `id` novo continua a sequência do ano (`OC-26NN`). Nunca renumerar ids antigos.
 - `categoria`: Apreensão de drogas, Pirataria fluvial, Roubo de carga, Invasão de terminal, Desvio de conduta, Operação policial.
+- `ambito`: Porto ou terminal (dentro da instalação, no cais ou no fundeio), Embarcação ou hidrovia (em navegação, em bases fluviais ou em comunidades ribeirinhas), Fora do porto (galpão, imóvel, rodovia ou transportadora ligados à rota portuária). Na dúvida, conferir o local exato na fonte oficial.
 - `regiao`: Norte, Nordeste, Centro-Oeste, Sudeste, Sul.
+- Um registro por fato. Operação que desdobra um fato anterior entra como registro novo.
+- Local: usar o município informado na fonte; se a fonte não informar, buscar outra reportagem do mesmo fato antes de aproximar.
 - `kg` só quando a notícia der um número; senão `null`.
 - Sem travessões (—) nos textos.
 - Polo já existente: reutilizar `x`, `y`, `lat`, `lon` do polo. Polo novo: calcular `x`, `y` assim:
