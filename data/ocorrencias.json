@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-16",
- "total": 69,
+ "atualizado_em": "2026-11-17",
+ "total": 70,
  "rows": [
   {
    "id": "OC-2401",
@@ -1380,6 +1380,26 @@
    "local_aproximado": false,
    "fonte": "Mix Vale",
    "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/",
+   "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2643",
+   "ano": 2026,
+   "data": "2026-11-15",
+   "local": "Navio atracado no Porto de Santos",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "polo": "Porto de Santos",
+   "x": 690.9,
+   "y": 752.6,
+   "lat": -23.96,
+   "lon": -46.31,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PF apreendeu 153 kg de cocaína em 8 pacotes, bolsas e mochila com corda na área de amarração da proa de navio com destino ao Marrocos. Comandante relatou acesso de quatro suspeitos encapuzados; contêineres refrigerados tinham sinais de violação. Ninguém preso; PF abriu inquérito.",
+   "kg": 153,
+   "local_aproximado": false,
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-no-porto-de-santos-intercepta-droga-com-destino-ao-marrocos/",
    "ambito": "Porto ou terminal"
   }
  ]

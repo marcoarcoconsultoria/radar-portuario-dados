@@ -1,17 +1,28 @@
 {
- "atualizado_em": "2026-11-16",
+ "atualizado_em": "2026-11-17",
  "resumos": [
   {
    "edicao": 7,
    "id": "2026-11-16",
    "inicio": "2026-11-16",
    "fim": "2026-11-22",
-   "publicado_em": "2026-11-16",
-   "titulo": "Semana de 16 a 22 de novembro",
+   "publicado_em": "2026-11-17",
+   "titulo": "Balanço da Operação Fronteira abre a semana de 16 a 22 de novembro",
    "destaques": [
-    "Sem ocorrências noticiadas até agora nesta semana."
+    "Receita Federal divulgou o balanço da Operação Fronteira (3 a 13 de novembro): R$ 581 milhões em apreensões e retenções, recorde da série, com 95 ações integradas em portos.",
+    "Sem novas ocorrências em portos ou hidrovias noticiadas até agora nesta semana."
    ],
-   "noticias": [],
+   "noticias": [
+    {
+     "data": "2026-11-16",
+     "titulo": "Receita divulga balanço da Operação Fronteira: R$ 581 milhões apreendidos em dez dias, com 95 ações integradas em portos e 82 prisões em flagrante",
+     "local": "Nacional",
+     "categoria": "Operação policial",
+     "fonte": "Floresta Notícias / Agência Brasil",
+     "url": "https://www.florestanoticias.com/2026/11/16/operacao-fronteira-2026-apreende-r-581-milhoes-em-mercadorias-ilicitas-e-drogas/",
+     "ocorrencia_id": null
+    }
+   ],
    "numeros": {
     "ocorrencias": 0,
     "kg": 0
@@ -23,14 +34,23 @@
    "inicio": "2026-11-09",
    "fim": "2026-11-15",
    "publicado_em": "2026-11-15",
-   "titulo": "540 kg de cocaína rumo a Paranaguá, ataques hacker a terminais e apreensões nos rios da Amazônia marcam a semana",
+   "titulo": "540 kg de cocaína rumo a Paranaguá, 153 kg em navio em Santos, ataques hacker a terminais e apreensões nos rios da Amazônia marcam a semana",
    "destaques": [
     "PM Rodoviária apreendeu 540 kg de cocaína em Itirapina (SP), escondidos em contêiner de carne que seria embarcado no Porto de Paranaguá; motorista preso.",
-    "Autoridade Portuária de Santos confirmou pedido de resgate após o ataque hacker de 6 de novembro, e a Portonave foi citada por grupo criminoso digital; a PF investiga o caso de Santos.",
+    "PF apreendeu 153 kg de cocaína na proa de navio com destino ao Marrocos no Porto de Santos, após o comandante relatar acesso de suspeitos encapuzados. Autoridade Portuária de Santos confirmou pedido de resgate após o ataque hacker de 6 de novembro.",
     "PF deflagrou a Operação Recycling em Itajaí (SC) contra família do setor portuário suspeita de lavar dinheiro do tráfico, com bloqueio de até R$ 93,2 milhões.",
     "Nos rios da Amazônia, seis apreensões em barcos somaram cerca de 118 kg de drogas, com destaque para 37 kg na Base Candiru, 32 kg na Base Arpão 2 e 15 kg no Porto de Parintins."
    ],
    "noticias": [
+    {
+     "data": "2026-11-16",
+     "titulo": "PF apreende 153 kg de cocaína em navio com destino ao Marrocos no Porto de Santos após suspeita de invasão na proa",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-no-porto-de-santos-intercepta-droga-com-destino-ao-marrocos/",
+     "ocorrencia_id": "OC-2643"
+    },
     {
      "data": "2026-11-15",
      "titulo": "Receita apreende cerca de 30 mil cigarros eletrônicos em contêiner vindo da China no Porto de Imbituba",
@@ -168,8 +188,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 10,
-    "kg": 658.98
+    "ocorrencias": 11,
+    "kg": 811.98
    }
   },
   {
