@@ -1,18 +1,27 @@
 {
- "atualizado_em": "2026-11-17",
+ "atualizado_em": "2026-11-18",
  "resumos": [
   {
    "edicao": 7,
    "id": "2026-11-16",
    "inicio": "2026-11-16",
    "fim": "2026-11-22",
-   "publicado_em": "2026-11-17",
-   "titulo": "Balanço da Operação Fronteira abre a semana de 16 a 22 de novembro",
+   "publicado_em": "2026-11-18",
+   "titulo": "Operação Conexão Oculta no Porto de Santos e balanço da Operação Fronteira",
    "destaques": [
-    "Receita Federal divulgou o balanço da Operação Fronteira (3 a 13 de novembro): R$ 581 milhões em apreensões e retenções, recorde da série, com 95 ações integradas em portos.",
-    "Sem novas ocorrências em portos ou hidrovias noticiadas até agora nesta semana."
+    "PF deflagrou a Operação Conexão Oculta em seis municípios de SP e PR contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos, usando empresas de fachada.",
+    "Receita Federal divulgou o balanço da Operação Fronteira (3 a 13 de novembro): R$ 581 milhões em apreensões e retenções, recorde da série, com 95 ações integradas em portos."
    ],
    "noticias": [
+    {
+     "data": "2026-11-17",
+     "titulo": "PF deflagra Operação Conexão Oculta contra envio de cocaína à Europa pelo Porto de Santos",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "Metrópoles",
+     "url": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-trafico-internacional-de-drogas-pelo-porto-de-santos",
+     "ocorrencia_id": "OC-2644"
+    },
     {
      "data": "2026-11-16",
      "titulo": "Receita divulga balanço da Operação Fronteira: R$ 581 milhões apreendidos em dez dias, com 95 ações integradas em portos e 82 prisões em flagrante",
@@ -24,7 +33,7 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 0,
+    "ocorrencias": 1,
     "kg": 0
    }
   },

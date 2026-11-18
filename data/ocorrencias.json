@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-17",
- "total": 70,
+ "atualizado_em": "2026-11-18",
+ "total": 73,
  "rows": [
   {
    "id": "OC-2401",
@@ -1401,6 +1401,66 @@
    "fonte": "CNN Brasil",
    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-no-porto-de-santos-intercepta-droga-com-destino-ao-marrocos/",
    "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2644",
+   "ano": 2026,
+   "data": "2026-11-17",
+   "local": "Santos, São Vicente, Guarujá, Praia Grande e Guarulhos (SP) e São José dos Pinhais (PR)",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "polo": "Porto de Santos",
+   "x": 690.9,
+   "y": 752.6,
+   "lat": -23.96,
+   "lon": -46.31,
+   "categoria": "Operação policial",
+   "resumo": "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos, com empresas de fachada. Sete mandados da Justiça Federal de Santos, cerca de 60 policiais federais e 28 PMs. Desdobramento da Operação Papyrus.",
+   "kg": null,
+   "local_aproximado": false,
+   "fonte": "Metrópoles",
+   "url": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-trafico-internacional-de-drogas-pelo-porto-de-santos",
+   "ambito": "Fora do porto"
+  },
+  {
+   "id": "OC-2645",
+   "ano": 2026,
+   "data": "2026-10-15",
+   "local": "Rio Unini, Barcelos",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Barcelos (AM)",
+   "x": 314.8,
+   "y": 179.1,
+   "lat": -1.7,
+   "lon": -61.6,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Base Arpão 3, com apoio do ICMBio, interceptou rabeta que levava droga para Novo Airão. 593,31 kg (553,31 kg de skunk e 40 kg de haxixe), revólver e 16 munições. Um preso; dois fugiram para a mata.",
+   "kg": 593.31,
+   "local_aproximado": true,
+   "fonte": "Fato Amazônico",
+   "url": "https://fatoamazonico.com.br/base-arpao-3-apreende-quase-600-quilos-de-drogas-e-prende-suspeito-em-barcelos/",
+   "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2646",
+   "ano": 2026,
+   "data": "2026-05-17",
+   "local": "Base Integrada Fluvial Candiru, Rio Amazonas, Óbidos",
+   "uf": "PA",
+   "regiao": "Norte",
+   "polo": "Óbidos (PA)",
+   "x": 471.1,
+   "y": 183.9,
+   "lat": -1.9,
+   "lon": -55.52,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Gflu e cães da PM acharam 357 kg de drogas (296 tabletes de maconha e 55 de pasta base de cocaína) no porão da embarcação Anna Karoline VII, de Manaus para Belém.",
+   "kg": 357,
+   "local_aproximado": true,
+   "fonte": "CNN Brasil",
+   "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/mais-de-350-kg-de-drogas-sao-apreendidos-em-porao-de-barco-no-para/",
+   "ambito": "Embarcação ou hidrovia"
   }
  ]
 }
