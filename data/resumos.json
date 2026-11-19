@@ -1,18 +1,46 @@
 {
- "atualizado_em": "2026-11-18",
+ "atualizado_em": "2026-11-19",
  "resumos": [
   {
    "edicao": 7,
    "id": "2026-11-16",
    "inicio": "2026-11-16",
    "fim": "2026-11-22",
-   "publicado_em": "2026-11-18",
-   "titulo": "Operação Conexão Oculta no Porto de Santos e balanço da Operação Fronteira",
+   "publicado_em": "2026-11-19",
+   "titulo": "Operação Conexão Oculta no Porto de Santos e avanço das caixas de mar como esconderijo de cocaína",
    "destaques": [
-    "PF deflagrou a Operação Conexão Oculta em seis municípios de SP e PR contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos, usando empresas de fachada.",
-    "Receita Federal divulgou o balanço da Operação Fronteira (3 a 13 de novembro): R$ 581 milhões em apreensões e retenções, recorde da série, com 95 ações integradas em portos."
+    "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
+    "Levantamento divulgado nesta semana aponta 523 kg de cocaína apreendidos em caixas de mar de navios em Santos em 2026, contra 100 kg em 2025.",
+    "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos. Em Santos, o último dia rendeu 11 kg de cocaína em contêiner refrigerado e 217 mil cigarros eletrônicos."
    ],
    "noticias": [
+    {
+     "data": "2026-11-18",
+     "titulo": "Levantamento aponta salto nas apreensões de cocaína em caixas de mar de navios no Porto de Santos: de 100 kg em 2025 para 523 kg em 2026",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Defesa em Foco",
+     "url": "https://www.defesaemfoco.com.br/portos-brasileiros-trafico-navios-vigilancia-autonoma/",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-18",
+     "titulo": "Guarda Portuária participa da Operação Tridente III, exercício binacional de proteção a cabos submarinos em Santos e Praia Grande",
+     "local": "Santos e Praia Grande (SP)",
+     "categoria": "Operação policial",
+     "fonte": "Segurança Portuária em Foco",
+     "url": "https://www.segurancaportuariaemfoco.com.br/2026/11/guarda-portuaria-participa-de-exercicio.html",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-18",
+     "titulo": "Conexão Oculta: diretor do Sintrammar é preso e dois suspeitos são detidos em Portugal",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "CBN Santos",
+     "url": "https://www.cbnsantos.com.br/noticias/policia/operacao-da-policia-federal-contra-trafico-no-porto-de-santos-prende-diretor-de-sindicato-e-dois-suspeitos-em-portugal.html",
+     "ocorrencia_id": "OC-2644"
+    },
     {
      "data": "2026-11-17",
      "titulo": "PF deflagra Operação Conexão Oculta contra envio de cocaína à Europa pelo Porto de Santos",
@@ -30,11 +58,20 @@
      "fonte": "Floresta Notícias / Agência Brasil",
      "url": "https://www.florestanoticias.com/2026/11/16/operacao-fronteira-2026-apreende-r-581-milhoes-em-mercadorias-ilicitas-e-drogas/",
      "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-13",
+     "titulo": "Receita Federal divulga apreensão de 11 kg de cocaína em contêiner refrigerado no Porto de Santos, no encerramento da Operação Fronteira",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Reconecta News",
+     "url": "https://reconectanews.com.br/receita-federal-apreende-cocaina-cigarros-eletronicos-e-produtos-falsificados-no-porto-de-santos/",
+     "ocorrencia_id": "OC-2648"
     }
    ],
    "numeros": {
-    "ocorrencias": 1,
-    "kg": 0
+    "ocorrencias": 2,
+    "kg": 11
    }
   },
   {

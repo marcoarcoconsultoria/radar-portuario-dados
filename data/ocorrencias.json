@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18",
- "total": 73,
+ "atualizado_em": "2026-11-19",
+ "total": 75,
  "rows": [
   {
    "id": "OC-2401",
@@ -1415,7 +1415,7 @@
    "lat": -23.96,
    "lon": -46.31,
    "categoria": "Operação policial",
-   "resumo": "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos, com empresas de fachada. Sete mandados da Justiça Federal de Santos, cerca de 60 policiais federais e 28 PMs. Desdobramento da Operação Papyrus.",
+   "resumo": "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos, com empresas de fachada. Sete mandados da Justiça Federal de Santos, cerca de 60 policiais federais e 28 PMs. Desdobramento da Operação Papyrus. Entre os presos está um diretor do Sintrammar; dois suspeitos foram presos em Portugal por cooperação internacional.",
    "kg": null,
    "local_aproximado": false,
    "fonte": "Metrópoles",
@@ -1461,6 +1461,46 @@
    "fonte": "CNN Brasil",
    "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/mais-de-350-kg-de-drogas-sao-apreendidos-em-porao-de-barco-no-para/",
    "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2647",
+   "ano": 2026,
+   "data": "2026-10-11",
+   "local": "Base Integrada Fluvial Candiru, Rio Amazonas, Óbidos",
+   "uf": "PA",
+   "regiao": "Norte",
+   "polo": "Óbidos (PA)",
+   "x": 471.1,
+   "y": 183.9,
+   "lat": -1.9,
+   "lon": -55.52,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Grupamento Fluvial da PM, com o cão Izu, achou 30 tabletes (27,6 kg de skunk e 6,7 kg de cocaína) escondidos em três aparelhos de ar-condicionado portáteis em embarcação que fazia o trajeto Manaus a Belém. Droga levada à delegacia de Óbidos.",
+   "kg": 34.3,
+   "local_aproximado": false,
+   "fonte": "Folha do Progresso",
+   "url": "https://news.folhadoprogresso.com.br/drogas-sao-encontradas-escondidas-em-aparelhos-de-ar-condicionado-em-embarcacao-no-para/",
+   "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2648",
+   "ano": 2026,
+   "data": "2026-11-13",
+   "local": "Porto de Santos",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "polo": "Porto de Santos",
+   "x": 690.9,
+   "y": 752.6,
+   "lat": -23.96,
+   "lon": -46.31,
+   "categoria": "Apreensão de drogas",
+   "resumo": "No encerramento da Operação Fronteira, a Receita Federal achou 11 kg de cocaína (R$ 3,3 milhões) em contêiner refrigerado. No mesmo dia, a Alfândega reteve 217 mil cigarros eletrônicos, 1 tonelada de rolamentos falsificados e 7,5 toneladas de suplementos.",
+   "kg": 11,
+   "local_aproximado": false,
+   "fonte": "Reconecta News",
+   "url": "https://reconectanews.com.br/receita-federal-apreende-cocaina-cigarros-eletronicos-e-produtos-falsificados-no-porto-de-santos/",
+   "ambito": "Porto ou terminal"
   }
  ]
 }
