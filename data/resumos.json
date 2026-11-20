@@ -1,19 +1,56 @@
 {
- "atualizado_em": "2026-11-19",
+ "atualizado_em": "2026-11-20",
  "resumos": [
   {
    "edicao": 7,
    "id": "2026-11-16",
    "inicio": "2026-11-16",
    "fim": "2026-11-22",
-   "publicado_em": "2026-11-19",
-   "titulo": "Operação Conexão Oculta no Porto de Santos e avanço das caixas de mar como esconderijo de cocaína",
+   "publicado_em": "2026-11-20",
+   "titulo": "177 kg de cocaína em casco de navio e Operação Conexão Oculta no Porto de Santos marcam a semana",
    "destaques": [
+    "PF e mergulhadores da Marinha apreenderam 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos. Levantamento da semana aponta 523 kg achados em caixas de mar em Santos em 2026, contra 100 kg em 2025.",
     "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
-    "Levantamento divulgado nesta semana aponta 523 kg de cocaína apreendidos em caixas de mar de navios em Santos em 2026, contra 100 kg em 2025.",
-    "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos. Em Santos, o último dia rendeu 11 kg de cocaína em contêiner refrigerado e 217 mil cigarros eletrônicos."
+    "No Alto Solimões, o Exército apreendeu 35 kg de cocaína em embarcação no porto de Tabatinga. Em Manaus e Iranduba, a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações.",
+    "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos."
    ],
    "noticias": [
+    {
+     "data": "2026-11-19",
+     "titulo": "Polícia Civil deflagra Operação Conexões contra grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações no Amazonas, com 5 mandados de prisão e 13 de busca",
+     "local": "Manaus e Iranduba (AM)",
+     "categoria": "Operação policial",
+     "fonte": "Portal Dedo Duro",
+     "url": "https://portaldedoduro.com/2026/11/19/operacao-conexoes-mira-grupo-suspeito-de-movimentar-7-toneladas-de-drogas-no-amazonas/",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-19",
+     "titulo": "Autoridade Portuária de Santos reforça controle nos portões após incidente cibernético: dois guardas por acesso, inspeção total de pessoas com bolsas e veículos e credenciamentos novos suspensos",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "DataPortuaria",
+     "url": "https://dataportuaria.com/en/brasil/ports/aps-enhances-security-at-port-of-santos-after-cyber-incident-b4bc94",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-18",
+     "titulo": "PF e Marinha apreendem 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Polícia Federal",
+     "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-apreende-177-kg-de-cocaina-em-navio-no-porto-de-santos",
+     "ocorrencia_id": "OC-2649"
+    },
+    {
+     "data": "2026-11-18",
+     "titulo": "Exército apreende 35 kg de cocaína em embarcação prestes a deixar o porto de Tabatinga",
+     "local": "Tabatinga (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Rios de Notícias",
+     "url": "https://www.riosdenoticias.com.br/exercito-apreende-35-quilos-de-cocaina-em-embarcacao-no-porto-de-tabatinga/",
+     "ocorrencia_id": "OC-2650"
+    },
     {
      "data": "2026-11-18",
      "titulo": "Levantamento aponta salto nas apreensões de cocaína em caixas de mar de navios no Porto de Santos: de 100 kg em 2025 para 523 kg em 2026",
@@ -70,8 +107,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 2,
-    "kg": 11
+    "ocorrencias": 4,
+    "kg": 223.45
    }
   },
   {

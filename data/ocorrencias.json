@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19",
- "total": 75,
+ "atualizado_em": "2026-11-20",
+ "total": 77,
  "rows": [
   {
    "id": "OC-2401",
@@ -1500,6 +1500,46 @@
    "local_aproximado": false,
    "fonte": "Reconecta News",
    "url": "https://reconectanews.com.br/receita-federal-apreende-cocaina-cigarros-eletronicos-e-produtos-falsificados-no-porto-de-santos/",
+   "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2649",
+   "ano": 2026,
+   "data": "2026-11-18",
+   "local": "Navio atracado no Porto de Santos",
+   "uf": "SP",
+   "regiao": "Sudeste",
+   "polo": "Porto de Santos",
+   "x": 690.9,
+   "y": 752.6,
+   "lat": -23.96,
+   "lon": -46.31,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PF, com mergulhadores da Marinha, achou 177,45 kg de cocaína em seis bolsas com rastreadores na caixa de mar e no costado de navio com destino a Singapura. Inquérito será instaurado.",
+   "kg": 177.45,
+   "local_aproximado": false,
+   "fonte": "Polícia Federal",
+   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-apreende-177-kg-de-cocaina-em-navio-no-porto-de-santos",
+   "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2650",
+   "ano": 2026,
+   "data": "2026-11-18",
+   "local": "Porto do DNIT, Tabatinga",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Tabatinga (AM)",
+   "x": 101.4,
+   "y": 248.1,
+   "lat": -4.25,
+   "lon": -69.94,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Exército (Operação Jaguaretê, 8º BIS) apreendeu 35 kg de cloridrato e pasta base de cocaína em embarcação pouco antes da saída do porto, com apoio de cães, Receita Federal e PF.",
+   "kg": 35,
+   "local_aproximado": false,
+   "fonte": "Rios de Notícias",
+   "url": "https://www.riosdenoticias.com.br/exercito-apreende-35-quilos-de-cocaina-em-embarcacao-no-porto-de-tabatinga/",
    "ambito": "Porto ou terminal"
   }
  ]
