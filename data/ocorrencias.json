@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-21",
- "total": 77,
+ "atualizado_em": "2026-11-22",
+ "total": 78,
  "rows": [
   {
    "id": "OC-2401",
@@ -1541,6 +1541,26 @@
    "fonte": "Rios de Notícias",
    "url": "https://www.riosdenoticias.com.br/exercito-apreende-35-quilos-de-cocaina-em-embarcacao-no-porto-de-tabatinga/",
    "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2651",
+   "ano": 2026,
+   "data": "2026-11-20",
+   "local": "Base Fluvial Arpão 2, Rio Solimões, Coari",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Rio Solimões · Coari",
+   "x": 275.7,
+   "y": 240.9,
+   "lat": -4.08,
+   "lon": -63.14,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Mais de 127 kg de skunk, pasta base e cloridrato de cocaína escondidos em sacas de castanha no ferry boat M. Monteiro II, que seguia de Tabatinga para Manaus. Cadela Arad ajudou na busca. Valor estimado de R$ 5,27 milhões; nenhum suspeito identificado.",
+   "kg": 127,
+   "local_aproximado": false,
+   "fonte": "Portal Tucumã",
+   "url": "https://portaltucuma.com.br/drogas-sao-encontradas-escondidas-em-sacas-de-castanha-em-embarcacao-no-am/",
+   "ambito": "Embarcação ou hidrovia"
   }
  ]
 }

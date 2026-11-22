@@ -1,20 +1,29 @@
 {
- "atualizado_em": "2026-11-21",
+ "atualizado_em": "2026-11-22",
  "resumos": [
   {
    "edicao": 7,
    "id": "2026-11-16",
    "inicio": "2026-11-16",
    "fim": "2026-11-22",
-   "publicado_em": "2026-11-21",
-   "titulo": "177 kg de cocaína em casco de navio e Operação Conexão Oculta no Porto de Santos marcam a semana",
+   "publicado_em": "2026-11-22",
+   "titulo": "177 kg de cocaína em casco de navio em Santos e 127 kg em sacas de castanha no Solimões marcam a semana",
    "destaques": [
     "PF e mergulhadores da Marinha apreenderam 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos. Levantamento da semana aponta 523 kg achados em caixas de mar em Santos em 2026, contra 100 kg em 2025.",
     "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
-    "No Alto Solimões, o Exército apreendeu 35 kg de cocaína em embarcação no porto de Tabatinga. Em Manaus e Iranduba, a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações.",
+    "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações.",
     "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos."
    ],
    "noticias": [
+    {
+     "data": "2026-11-20",
+     "titulo": "Base Arpão 2 apreende mais de 127 kg de drogas escondidas em sacas de castanha em ferry boat que seguia de Tabatinga para Manaus",
+     "local": "Coari (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal Tucumã",
+     "url": "https://portaltucuma.com.br/drogas-sao-encontradas-escondidas-em-sacas-de-castanha-em-embarcacao-no-am/",
+     "ocorrencia_id": "OC-2651"
+    },
     {
      "data": "2026-11-19",
      "titulo": "Polícia Civil deflagra Operação Conexões contra grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações no Amazonas, com 5 mandados de prisão e 13 de busca",
@@ -107,8 +116,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 4,
-    "kg": 223.45
+    "ocorrencias": 5,
+    "kg": 350.45
    }
   },
   {
