@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-22",
- "total": 78,
+ "atualizado_em": "2026-11-23",
+ "total": 79,
  "rows": [
   {
    "id": "OC-2401",
@@ -1560,6 +1560,26 @@
    "local_aproximado": false,
    "fonte": "Portal Tucumã",
    "url": "https://portaltucuma.com.br/drogas-sao-encontradas-escondidas-em-sacas-de-castanha-em-embarcacao-no-am/",
+   "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2652",
+   "ano": 2026,
+   "data": "2026-11-19",
+   "local": "Base Fluvial Arpão 2, Rio Solimões, Coari",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Rio Solimões · Coari",
+   "x": 275.7,
+   "y": 240.9,
+   "lat": -4.08,
+   "lon": -63.14,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Fiscalização na Base Arpão 2 achou cerca de 48 kg de drogas escondidas em sacas de tucumã em embarcação. Valor estimado de R$ 960 mil, segundo a SSP-AM.",
+   "kg": 48,
+   "local_aproximado": false,
+   "fonte": "Portal Dedo Duro",
+   "url": "https://portaldedoduro.com/2026/11/21/fiscalizacao-encontra-48-kg-de-drogas-em-carga-de-tucuma-na-base-arpao-2-em-coari/",
    "ambito": "Embarcação ou hidrovia"
   }
  ]

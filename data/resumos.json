@@ -1,6 +1,22 @@
 {
- "atualizado_em": "2026-11-22",
+ "atualizado_em": "2026-11-23",
  "resumos": [
+  {
+   "edicao": 8,
+   "id": "2026-11-23",
+   "inicio": "2026-11-23",
+   "fim": "2026-11-29",
+   "publicado_em": "2026-11-23",
+   "titulo": "Semana de 23 a 29 de novembro de 2026",
+   "destaques": [
+    "Sem ocorrências noticiadas até agora nesta semana."
+   ],
+   "noticias": [],
+   "numeros": {
+    "ocorrencias": 0,
+    "kg": 0
+   }
+  },
   {
    "edicao": 7,
    "id": "2026-11-16",
@@ -11,7 +27,7 @@
    "destaques": [
     "PF e mergulhadores da Marinha apreenderam 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos. Levantamento da semana aponta 523 kg achados em caixas de mar em Santos em 2026, contra 100 kg em 2025.",
     "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
-    "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações.",
+    "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga e, um dia antes, cerca de 48 kg de drogas em sacas de tucumã. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações.",
     "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos."
    ],
    "noticias": [
@@ -23,6 +39,15 @@
      "fonte": "Portal Tucumã",
      "url": "https://portaltucuma.com.br/drogas-sao-encontradas-escondidas-em-sacas-de-castanha-em-embarcacao-no-am/",
      "ocorrencia_id": "OC-2651"
+    },
+    {
+     "data": "2026-11-19",
+     "titulo": "Base Arpão 2 encontra cerca de 48 kg de drogas escondidas em sacas de tucumã em embarcação, em Coari",
+     "local": "Coari (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal Dedo Duro",
+     "url": "https://portaldedoduro.com/2026/11/21/fiscalizacao-encontra-48-kg-de-drogas-em-carga-de-tucuma-na-base-arpao-2-em-coari/",
+     "ocorrencia_id": "OC-2652"
     },
     {
      "data": "2026-11-19",
@@ -116,8 +141,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 5,
-    "kg": 350.45
+    "ocorrencias": 6,
+    "kg": 398.45
    }
   },
   {
