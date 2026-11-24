@@ -1,12 +1,12 @@
 {
- "atualizado_em": "2026-11-23",
+ "atualizado_em": "2026-11-24",
  "resumos": [
   {
    "edicao": 8,
    "id": "2026-11-23",
    "inicio": "2026-11-23",
    "fim": "2026-11-29",
-   "publicado_em": "2026-11-23",
+   "publicado_em": "2026-11-24",
    "titulo": "Semana de 23 a 29 de novembro de 2026",
    "destaques": [
     "Sem ocorrências noticiadas até agora nesta semana."
@@ -27,10 +27,19 @@
    "destaques": [
     "PF e mergulhadores da Marinha apreenderam 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos. Levantamento da semana aponta 523 kg achados em caixas de mar em Santos em 2026, contra 100 kg em 2025.",
     "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
-    "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga e, um dia antes, cerca de 48 kg de drogas em sacas de tucumã. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações.",
+    "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga e, um dia antes, cerca de 48 kg de drogas em sacas de tucumã. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações. No domingo, a Base Arpão 1, em Jutaí, prendeu passageiro com cerca de 48 kg de skunk em lancha vinda de Tabatinga.",
     "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos."
    ],
    "noticias": [
+    {
+     "data": "2026-11-22",
+     "titulo": "Base Arpão 1 prende passageiro com cerca de 48 kg de skunk em lancha que saiu de Tabatinga para Manaus",
+     "local": "Jutaí (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Segundo a Segundo",
+     "url": "https://segundoasegundo.com.br/2026/11/passageiro-de-tabatinga-preso-droga/",
+     "ocorrencia_id": "OC-2653"
+    },
     {
      "data": "2026-11-20",
      "titulo": "Base Arpão 2 apreende mais de 127 kg de drogas escondidas em sacas de castanha em ferry boat que seguia de Tabatinga para Manaus",
@@ -141,8 +150,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 6,
-    "kg": 398.45
+    "ocorrencias": 7,
+    "kg": 446.45
    }
   },
   {

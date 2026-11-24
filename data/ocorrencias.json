@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-23",
- "total": 79,
+ "atualizado_em": "2026-11-24",
+ "total": 81,
  "rows": [
   {
    "id": "OC-2401",
@@ -1580,6 +1580,46 @@
    "local_aproximado": false,
    "fonte": "Portal Dedo Duro",
    "url": "https://portaldedoduro.com/2026/11/21/fiscalizacao-encontra-48-kg-de-drogas-em-carga-de-tucuma-na-base-arpao-2-em-coari/",
+   "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2653",
+   "ano": 2026,
+   "data": "2026-11-22",
+   "local": "Base Fluvial Arpão 1, Jutaí",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Médio Solimões · Jutaí",
+   "x": 182.2,
+   "y": 207.3,
+   "lat": -2.75,
+   "lon": -66.77,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Com a cadela farejadora Íris, policiais da Base Arpão 1 acharam cerca de 48 kg de skunk (40 tabletes, em duas malas e com o passageiro) em lancha a jato que saiu de Tabatinga para Manaus. Passageiro preso em flagrante. Prejuízo estimado de R$ 960 mil.",
+   "kg": 48,
+   "local_aproximado": false,
+   "fonte": "Segundo a Segundo",
+   "url": "https://segundoasegundo.com.br/2026/11/passageiro-de-tabatinga-preso-droga/",
+   "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2654",
+   "ano": 2026,
+   "data": "2026-10-17",
+   "local": "Navio Flor da Terra, Base Fluvial Candiru, Óbidos",
+   "uf": "PA",
+   "regiao": "Norte",
+   "polo": "Óbidos (PA)",
+   "x": 471.1,
+   "y": 183.9,
+   "lat": -1.9,
+   "lon": -55.52,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Base Fluvial Integrada Candiru e Gflu, com o cão Tupã, acharam 105 tabletes (82,65 kg de skunk, 24,6 kg de oxi e 4,75 kg de cocaína) no navio Flor da Terra, que seguia de Manaus para Santarém. Um homem foi preso e disse que receberia R$ 5 mil pelo transporte.",
+   "kg": 112,
+   "local_aproximado": false,
+   "fonte": "O Liberal",
+   "url": "https://www.oliberal.com/policia/base-fluvial-candiru-apreende-112-quilos-de-drogas-em-obidos-1.1184361",
    "ambito": "Embarcação ou hidrovia"
   }
  ]
