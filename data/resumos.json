@@ -1,588 +1,588 @@
 {
- "atualizado_em": "2026-11-24",
- "resumos": [
-  {
-   "edicao": 8,
-   "id": "2026-11-23",
-   "inicio": "2026-11-23",
-   "fim": "2026-11-29",
-   "publicado_em": "2026-11-24",
-   "titulo": "Semana de 23 a 29 de novembro de 2026",
-   "destaques": [
-    "Sem ocorrências noticiadas até agora nesta semana."
-   ],
-   "noticias": [],
-   "numeros": {
-    "ocorrencias": 0,
-    "kg": 0
-   }
-  },
-  {
-   "edicao": 7,
-   "id": "2026-11-16",
-   "inicio": "2026-11-16",
-   "fim": "2026-11-22",
-   "publicado_em": "2026-11-22",
-   "titulo": "177 kg de cocaína em casco de navio em Santos e 127 kg em sacas de castanha no Solimões marcam a semana",
-   "destaques": [
-    "PF e mergulhadores da Marinha apreenderam 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos. Levantamento da semana aponta 523 kg achados em caixas de mar em Santos em 2026, contra 100 kg em 2025.",
-    "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
-    "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga e, um dia antes, cerca de 48 kg de drogas em sacas de tucumã. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações. No domingo, a Base Arpão 1, em Jutaí, prendeu passageiro com cerca de 48 kg de skunk em lancha vinda de Tabatinga.",
-    "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos."
-   ],
-   "noticias": [
+  "atualizado_em": "2026-11-25",
+  "resumos": [
     {
-     "data": "2026-11-22",
-     "titulo": "Base Arpão 1 prende passageiro com cerca de 48 kg de skunk em lancha que saiu de Tabatinga para Manaus",
-     "local": "Jutaí (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Segundo a Segundo",
-     "url": "https://segundoasegundo.com.br/2026/11/passageiro-de-tabatinga-preso-droga/",
-     "ocorrencia_id": "OC-2653"
+      "edicao": 8,
+      "id": "2026-11-23",
+      "inicio": "2026-11-23",
+      "fim": "2026-11-29",
+      "publicado_em": "2026-11-25",
+      "titulo": "Semana de 23 a 29 de novembro de 2026",
+      "destaques": [
+        "Sem ocorrências noticiadas até agora nesta semana."
+      ],
+      "noticias": [],
+      "numeros": {
+        "ocorrencias": 0,
+        "kg": 0
+      }
     },
     {
-     "data": "2026-11-20",
-     "titulo": "Base Arpão 2 apreende mais de 127 kg de drogas escondidas em sacas de castanha em ferry boat que seguia de Tabatinga para Manaus",
-     "local": "Coari (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal Tucumã",
-     "url": "https://portaltucuma.com.br/drogas-sao-encontradas-escondidas-em-sacas-de-castanha-em-embarcacao-no-am/",
-     "ocorrencia_id": "OC-2651"
+      "edicao": 7,
+      "id": "2026-11-16",
+      "inicio": "2026-11-16",
+      "fim": "2026-11-22",
+      "publicado_em": "2026-11-22",
+      "titulo": "177 kg de cocaína em casco de navio em Santos e 127 kg em sacas de castanha no Solimões marcam a semana",
+      "destaques": [
+        "PF e mergulhadores da Marinha apreenderam 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos. Levantamento da semana aponta 523 kg achados em caixas de mar em Santos em 2026, contra 100 kg em 2025.",
+        "PF deflagrou a Operação Conexão Oculta contra grupo suspeito de enviar cocaína à Europa em contêineres pelo Porto de Santos. Um diretor do Sintrammar foi preso no Brasil e dois suspeitos em Portugal.",
+        "No Solimões, a Base Arpão 2, em Coari, achou mais de 127 kg de skunk, pasta base e cocaína em sacas de castanha em ferry boat vindo de Tabatinga e, um dia antes, cerca de 48 kg de drogas em sacas de tucumã. Em Tabatinga, o Exército apreendeu 35 kg de cocaína em embarcação, e a Operação Conexões mirou grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações. No domingo, a Base Arpão 1, em Jutaí, prendeu passageiro com cerca de 48 kg de skunk em lancha vinda de Tabatinga.",
+        "Receita Federal divulgou o balanço da Operação Fronteira: R$ 581 milhões em apreensões, com 95 ações em portos."
+      ],
+      "noticias": [
+        {
+          "data": "2026-11-22",
+          "titulo": "Base Arpão 1 prende passageiro com cerca de 48 kg de skunk em lancha que saiu de Tabatinga para Manaus",
+          "local": "Jutaí (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Segundo a Segundo",
+          "url": "https://segundoasegundo.com.br/2026/11/passageiro-de-tabatinga-preso-droga/",
+          "ocorrencia_id": "OC-2653"
+        },
+        {
+          "data": "2026-11-20",
+          "titulo": "Base Arpão 2 apreende mais de 127 kg de drogas escondidas em sacas de castanha em ferry boat que seguia de Tabatinga para Manaus",
+          "local": "Coari (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal Tucumã",
+          "url": "https://portaltucuma.com.br/drogas-sao-encontradas-escondidas-em-sacas-de-castanha-em-embarcacao-no-am/",
+          "ocorrencia_id": "OC-2651"
+        },
+        {
+          "data": "2026-11-19",
+          "titulo": "Base Arpão 2 encontra cerca de 48 kg de drogas escondidas em sacas de tucumã em embarcação, em Coari",
+          "local": "Coari (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal Dedo Duro",
+          "url": "https://portaldedoduro.com/2026/11/21/fiscalizacao-encontra-48-kg-de-drogas-em-carga-de-tucuma-na-base-arpao-2-em-coari/",
+          "ocorrencia_id": "OC-2652"
+        },
+        {
+          "data": "2026-11-19",
+          "titulo": "Polícia Civil deflagra Operação Conexões contra grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações no Amazonas, com 5 mandados de prisão e 13 de busca",
+          "local": "Manaus e Iranduba (AM)",
+          "categoria": "Operação policial",
+          "fonte": "Portal Dedo Duro",
+          "url": "https://portaldedoduro.com/2026/11/19/operacao-conexoes-mira-grupo-suspeito-de-movimentar-7-toneladas-de-drogas-no-amazonas/",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-19",
+          "titulo": "Autoridade Portuária de Santos reforça controle nos portões após incidente cibernético: dois guardas por acesso, inspeção total de pessoas com bolsas e veículos e credenciamentos novos suspensos",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Operação policial",
+          "fonte": "DataPortuaria",
+          "url": "https://dataportuaria.com/en/brasil/ports/aps-enhances-security-at-port-of-santos-after-cyber-incident-b4bc94",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-18",
+          "titulo": "PF e Marinha apreendem 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Polícia Federal",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-apreende-177-kg-de-cocaina-em-navio-no-porto-de-santos",
+          "ocorrencia_id": "OC-2649"
+        },
+        {
+          "data": "2026-11-18",
+          "titulo": "Exército apreende 35 kg de cocaína em embarcação prestes a deixar o porto de Tabatinga",
+          "local": "Tabatinga (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Rios de Notícias",
+          "url": "https://www.riosdenoticias.com.br/exercito-apreende-35-quilos-de-cocaina-em-embarcacao-no-porto-de-tabatinga/",
+          "ocorrencia_id": "OC-2650"
+        },
+        {
+          "data": "2026-11-18",
+          "titulo": "Levantamento aponta salto nas apreensões de cocaína em caixas de mar de navios no Porto de Santos: de 100 kg em 2025 para 523 kg em 2026",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Defesa em Foco",
+          "url": "https://www.defesaemfoco.com.br/portos-brasileiros-trafico-navios-vigilancia-autonoma/",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-18",
+          "titulo": "Guarda Portuária participa da Operação Tridente III, exercício binacional de proteção a cabos submarinos em Santos e Praia Grande",
+          "local": "Santos e Praia Grande (SP)",
+          "categoria": "Operação policial",
+          "fonte": "Segurança Portuária em Foco",
+          "url": "https://www.segurancaportuariaemfoco.com.br/2026/11/guarda-portuaria-participa-de-exercicio.html",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-18",
+          "titulo": "Conexão Oculta: diretor do Sintrammar é preso e dois suspeitos são detidos em Portugal",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Operação policial",
+          "fonte": "CBN Santos",
+          "url": "https://www.cbnsantos.com.br/noticias/policia/operacao-da-policia-federal-contra-trafico-no-porto-de-santos-prende-diretor-de-sindicato-e-dois-suspeitos-em-portugal.html",
+          "ocorrencia_id": "OC-2644"
+        },
+        {
+          "data": "2026-11-17",
+          "titulo": "PF deflagra Operação Conexão Oculta contra envio de cocaína à Europa pelo Porto de Santos",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Operação policial",
+          "fonte": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-trafico-internacional-de-drogas-pelo-porto-de-santos",
+          "ocorrencia_id": "OC-2644"
+        },
+        {
+          "data": "2026-11-16",
+          "titulo": "Receita divulga balanço da Operação Fronteira: R$ 581 milhões apreendidos em dez dias, com 95 ações integradas em portos e 82 prisões em flagrante",
+          "local": "Nacional",
+          "categoria": "Operação policial",
+          "fonte": "Floresta Notícias / Agência Brasil",
+          "url": "https://www.florestanoticias.com/2026/11/16/operacao-fronteira-2026-apreende-r-581-milhoes-em-mercadorias-ilicitas-e-drogas/",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-13",
+          "titulo": "Receita Federal divulga apreensão de 11 kg de cocaína em contêiner refrigerado no Porto de Santos, no encerramento da Operação Fronteira",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Reconecta News",
+          "url": "https://reconectanews.com.br/receita-federal-apreende-cocaina-cigarros-eletronicos-e-produtos-falsificados-no-porto-de-santos/",
+          "ocorrencia_id": "OC-2648"
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 7,
+        "kg": 446.45
+      }
     },
     {
-     "data": "2026-11-19",
-     "titulo": "Base Arpão 2 encontra cerca de 48 kg de drogas escondidas em sacas de tucumã em embarcação, em Coari",
-     "local": "Coari (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal Dedo Duro",
-     "url": "https://portaldedoduro.com/2026/11/21/fiscalizacao-encontra-48-kg-de-drogas-em-carga-de-tucuma-na-base-arpao-2-em-coari/",
-     "ocorrencia_id": "OC-2652"
+      "edicao": 6,
+      "id": "2026-11-09",
+      "inicio": "2026-11-09",
+      "fim": "2026-11-15",
+      "publicado_em": "2026-11-15",
+      "titulo": "540 kg de cocaína rumo a Paranaguá, 153 kg em navio em Santos, ataques hacker a terminais e apreensões nos rios da Amazônia marcam a semana",
+      "destaques": [
+        "PM Rodoviária apreendeu 540 kg de cocaína em Itirapina (SP), escondidos em contêiner de carne que seria embarcado no Porto de Paranaguá; motorista preso.",
+        "PF apreendeu 153 kg de cocaína na proa de navio com destino ao Marrocos no Porto de Santos, após o comandante relatar acesso de suspeitos encapuzados. Autoridade Portuária de Santos confirmou pedido de resgate após o ataque hacker de 6 de novembro.",
+        "PF deflagrou a Operação Recycling em Itajaí (SC) contra família do setor portuário suspeita de lavar dinheiro do tráfico, com bloqueio de até R$ 93,2 milhões.",
+        "Nos rios da Amazônia, seis apreensões em barcos somaram cerca de 118 kg de drogas, com destaque para 37 kg na Base Candiru, 32 kg na Base Arpão 2 e 15 kg no Porto de Parintins."
+      ],
+      "noticias": [
+        {
+          "data": "2026-11-16",
+          "titulo": "PF apreende 153 kg de cocaína em navio com destino ao Marrocos no Porto de Santos após suspeita de invasão na proa",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-no-porto-de-santos-intercepta-droga-com-destino-ao-marrocos/",
+          "ocorrencia_id": "OC-2643"
+        },
+        {
+          "data": "2026-11-15",
+          "titulo": "Receita apreende cerca de 30 mil cigarros eletrônicos em contêiner vindo da China no Porto de Imbituba",
+          "local": "Porto de Imbituba (SC)",
+          "categoria": "Operação policial",
+          "fonte": "Mix Vale",
+          "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/",
+          "ocorrencia_id": "OC-2642"
+        },
+        {
+          "data": "2026-11-15",
+          "titulo": "Base Arpão 2 acha mais de 8 kg de cocaína e pasta base em bebedouro de barco que ia de Tabatinga a Manaus",
+          "local": "Coari (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal de Doduro",
+          "url": "https://portaldedoduro.com/2026/11/15/entorpecentes-avaliados-em-r-5575-mil-sao-descobertos-em-bebedouro-de-embarcacao-no-am/",
+          "ocorrencia_id": "OC-2640"
+        },
+        {
+          "data": "2026-11-15",
+          "titulo": "PM apreende mais de 15 kg de drogas em encomenda de embarcação no Porto de Parintins",
+          "local": "Parintins (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Segundo a Segundo",
+          "url": "https://segundoasegundo.com.br/2026/11/policia-militar-apreende-drogas/",
+          "ocorrencia_id": "OC-2641"
+        },
+        {
+          "data": "2026-11-13",
+          "titulo": "Operação Fronteira da Receita encerra fase ostensiva no Porto de Rio Grande após 10 dias e mais de 3.600 km desde Tabatinga; balanço sai em 16/11",
+          "local": "Porto de Rio Grande (RS)",
+          "categoria": "Operação policial",
+          "fonte": "Jornal de Brasília",
+          "url": "https://jornaldebrasilia.com.br/noticias/brasil/operacao-fronteira-encerra-edicao-historica-no-porto-de-rio-grande",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-13",
+          "titulo": "Portonave é citada por grupo hacker que pede US$ 5,8 milhões; terminal diz não haver evidência de invasão e reforça segurança digital",
+          "local": "Navegantes (SC)",
+          "categoria": "Invasão de terminal",
+          "fonte": "Transporte Moderno",
+          "url": "https://transportemoderno.com.br/2026/11/13/portonave-e-citada-por-hackers-e-reforca-seguranca-digital/",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-12",
+          "titulo": "Base Candiru apreende 37 kg de drogas em fundo falso de carro transportado em barco de Manaus para Belém",
+          "local": "Óbidos (PA)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "O Impacto",
+          "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/",
+          "ocorrencia_id": "OC-2639"
+        },
+        {
+          "data": "2026-11-12",
+          "titulo": "Autoridade Portuária de Santos confirma pedido de resgate após invasão cibernética; valor não foi pago e site segue fora do ar",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Operação policial",
+          "fonte": "Urgente News",
+          "url": "https://urgentenews.org/santos/2026/11/12/porto-de-santos-recebe-pedido-de-resgate-apos-invasao-cibernetica-site-segue-fora-do-ar.html",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-10",
+          "titulo": "PM Rodoviária apreende 540 kg de cocaína em contêiner de carne que seguia para o Porto de Paranaguá",
+          "local": "Itirapina (SP)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "ND Mais",
+          "url": "https://ndmais.com.br/seguranca/caminhoneiro-carne-bovina-500-tijolos-cocaina-paranagua/",
+          "ocorrencia_id": "OC-2638"
+        },
+        {
+          "data": "2026-11-12",
+          "titulo": "Duas mulheres são presas com 10 kg de cocaína em barco rumo a Manaus, em Jutaí",
+          "local": "Jutaí (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal de Doduro",
+          "url": "https://portaldedoduro.com/2026/11/12/duas-mulheres-sao-presas-com-10-kg-de-cocaina-em-embarcacao-rumo-a-manaus/",
+          "ocorrencia_id": "OC-2636"
+        },
+        {
+          "data": "2026-11-11",
+          "titulo": "Base Fluvial Candiru apreende quase 16 kg de drogas em barco no Baixo Amazonas",
+          "local": "Juruti (PA)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "RBTV / Secom Pará",
+          "url": "https://rbtv.com.br/noticia/30787/base-fluvial-candiru-apreende-mais-de-15-quilos-de-drogas-em-embarcacao-no-baixo-amazonas",
+          "ocorrencia_id": "OC-2635"
+        },
+        {
+          "data": "2026-11-11",
+          "titulo": "Receita retém R$ 35 milhões em itens irregulares no Porto de Vitória na Operação Fronteira",
+          "local": "Porto de Vitória (ES)",
+          "categoria": "Operação policial",
+          "fonte": "Agência Brasil / BR230",
+          "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria",
+          "ocorrencia_id": "OC-2634"
+        },
+        {
+          "data": "2026-11-10",
+          "titulo": "Cão farejador encontra mais de 32 kg de drogas em malas dentro de lancha no Solimões",
+          "local": "Base Arpão 2, Rio Solimões (AM)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Em Tempo",
+          "url": "https://emtempo.com.br/612074/policia/cao-farejador-apreende-drogas-lancha-amazonas/",
+          "ocorrencia_id": "OC-2633"
+        },
+        {
+          "data": "2026-11-10",
+          "titulo": "Autoridade Portuária de Santos confirma ataque hacker, PF abre inquérito e Cesportos eleva nível de segurança nos acessos",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Operação policial",
+          "fonte": "Revista Sociedade Militar",
+          "url": "https://www.sociedademilitar.com.br/2026/11/porto-de-santos-confirma-ataque-hacker-pf-abre-inquerito-e-marinha-mobiliza-700-militares-na-regiao-mjd.html",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-10",
+          "titulo": "PF deflagra Operação Recycling contra lavagem de dinheiro de família do setor portuário ligada ao tráfico pelos portos de Itajaí e Rio Grande",
+          "local": "Itajaí (SC)",
+          "categoria": "Operação policial",
+          "fonte": "O Liberal / Estadão Conteúdo",
+          "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695",
+          "ocorrencia_id": "OC-2632"
+        },
+        {
+          "data": "2026-11-10",
+          "titulo": "Reportagem da BBC mostra avanço do uso de caixas de mar de navios para esconder cocaína no Porto de Santos",
+          "local": "Porto de Santos (SP)",
+          "categoria": "Apreensão de drogas",
+          "fonte": "A Gazeta / BBC News Brasil",
+          "url": "https://www.agazeta.com.br/mundo/o-novo-esconderijo-da-cocaina-no-porto-de-santos-1126",
+          "ocorrencia_id": null
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 11,
+        "kg": 811.98
+      }
     },
     {
-     "data": "2026-11-19",
-     "titulo": "Polícia Civil deflagra Operação Conexões contra grupo suspeito de movimentar cerca de 7 toneladas de drogas em embarcações no Amazonas, com 5 mandados de prisão e 13 de busca",
-     "local": "Manaus e Iranduba (AM)",
-     "categoria": "Operação policial",
-     "fonte": "Portal Dedo Duro",
-     "url": "https://portaldedoduro.com/2026/11/19/operacao-conexoes-mira-grupo-suspeito-de-movimentar-7-toneladas-de-drogas-no-amazonas/",
-     "ocorrencia_id": null
+      "edicao": 5,
+      "id": "2026-11-02",
+      "inicio": "2026-11-02",
+      "fim": "2026-11-08",
+      "publicado_em": "2026-11-08",
+      "titulo": "Piratas atacam comunidade em Coari e Porto do Rio concentra apreensões de carga irregular",
+      "destaques": [
+        "Em Coari (AM), piratas invadiram na madrugada de 04/11 a comunidade São Francisco da Boca do Codajás Mirim, roubaram moradores e embarcações e fizeram ao menos quatro reféns, depois liberados. Famílias se esconderam na mata e a PM enviou equipes da Base Fluvial Arpão 2.",
+        "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, e, em outro contêiner, 1.680 caixas de blocos de montar falsificados, avaliadas em R$ 228 mil.",
+        "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos.",
+        "Na Base Integrada Fluvial Candiru, em Óbidos (PA), o Grupamento Fluvial apreendeu em 05/11 cerca de 4,35 kg de pasta base de cocaína em encomenda a bordo de embarcação que seguia de Manaus para Belém."
+      ],
+      "noticias": [
+        {
+          "data": "2026-11-06",
+          "titulo": "Vídeo mostra famílias escondidas na mata após ataque de piratas em comunidade no Amazonas",
+          "local": "Coari · AM",
+          "categoria": "Pirataria fluvial",
+          "fonte": "ac24horas",
+          "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/",
+          "ocorrencia_id": "OC-2630"
+        },
+        {
+          "data": "2026-11-06",
+          "titulo": "Polícia apreende mais de 4 kg de pasta base de cocaína em embarcação no Rio Amazonas",
+          "local": "Óbidos · PA",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Estado do Pará Online",
+          "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas",
+          "ocorrencia_id": "OC-2629"
+        },
+        {
+          "data": "2026-11-05",
+          "titulo": "Operação Fronteira Receita Federal já soma R$ 30 milhões em apreensões",
+          "local": "Brasil",
+          "categoria": "Operação policial",
+          "fonte": "Agência Gov",
+          "url": "https://agenciagov.ebc.com.br/noticias/202611/operacao-fronteira-receita-federal-ja-soma-cerca-de-r-30-milhoes-em-apreensoes-1",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-11-05",
+          "titulo": "Receita Federal apreende brinquedos falsificados no Porto do Rio",
+          "local": "Rio de Janeiro · RJ",
+          "categoria": "Operação policial",
+          "fonte": "Primeira Página SC",
+          "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/",
+          "ocorrencia_id": "OC-2628"
+        },
+        {
+          "data": "2026-11-04",
+          "titulo": "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio",
+          "local": "Rio de Janeiro · RJ",
+          "categoria": "Operação policial",
+          "fonte": "Agência Brasil, via Tribuna do Sertão",
+          "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio",
+          "ocorrencia_id": "OC-2627"
+        },
+        {
+          "data": "2026-11-03",
+          "titulo": "Polícia apreende 16 kg de skunk escondidos em embarcação no interior do Amazonas",
+          "local": "Japurá · AM",
+          "categoria": "Apreensão de drogas",
+          "fonte": "O Chefão da Notícia",
+          "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/",
+          "ocorrencia_id": "OC-2626"
+        },
+        {
+          "data": "2026-11-03",
+          "titulo": "Barcos fantasmas: PF investiga pesqueiros usados para levar cocaína à Europa",
+          "local": "Itajaí · SC",
+          "categoria": "Operação policial",
+          "fonte": "Defesa em Foco",
+          "url": "https://www.defesaemfoco.com.br/barcos-fantasmas-pf-investiga-pesqueiros-cocaina-europa/",
+          "ocorrencia_id": null
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 5,
+        "kg": 20.35
+      }
     },
     {
-     "data": "2026-11-19",
-     "titulo": "Autoridade Portuária de Santos reforça controle nos portões após incidente cibernético: dois guardas por acesso, inspeção total de pessoas com bolsas e veículos e credenciamentos novos suspensos",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Operação policial",
-     "fonte": "DataPortuaria",
-     "url": "https://dataportuaria.com/en/brasil/ports/aps-enhances-security-at-port-of-santos-after-cyber-incident-b4bc94",
-     "ocorrencia_id": null
+      "edicao": 4,
+      "id": "2026-10-26",
+      "inicio": "2026-10-26",
+      "fim": "2026-11-01",
+      "publicado_em": "2026-11-01",
+      "titulo": "Recorde de 4,4 toneladas em SC e cocaína escondida em navios em Santos e Paranaguá",
+      "destaques": [
+        "A Polícia Civil de Santa Catarina apreendeu 4,4 toneladas de cocaína num galpão em Balneário Piçarras, perto do complexo portuário de Itajaí (29/10). Seis britânicos foram presos e a suspeita é de envio ao exterior por logística portuária.",
+        "Mergulhadores da PF e da Marinha retiraram 33 kg de cocaína de um compartimento submerso de navio atracado no Porto de Santos (27/10). No dia seguinte, a Operação Rebuliço cumpriu 11 mandados de prisão contra grupo ligado ao PCC.",
+        "No Porto de Paranaguá, a PF achou 31,6 kg de cocaína em compartimentos de um navio de carga (30/10).",
+        "Na Amazônia, 72,7 kg de drogas foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10), e cerca de 5,8 kg num barco em Boa Vista do Ramos, na Operação Faro (noticiado em 01/11)."
+      ],
+      "noticias": [
+        {
+          "data": "2026-11-01",
+          "titulo": "Cadela policial ajuda a apreender 5,8 quilos de drogas em embarcação no Amazonas",
+          "local": "Boa Vista do Ramos · AM",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Rios de Notícias",
+          "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/",
+          "ocorrencia_id": "OC-2625"
+        },
+        {
+          "data": "2026-10-30",
+          "titulo": "Apreensão de 4,4 toneladas de cocaína em SC se torna a maior em operação única no país",
+          "local": "Balneário Piçarras · SC",
+          "categoria": "Apreensão de drogas",
+          "fonte": "ND+",
+          "url": "https://ndmais.com.br/seguranca/apreensao-de-cocaina-em-sc-maior-do-brasil/",
+          "ocorrencia_id": "OC-2622"
+        },
+        {
+          "data": "2026-10-30",
+          "titulo": "PF apreende mais de 31 kg de cocaína no porto de Paranaguá",
+          "local": "Porto de Paranaguá · PR",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal Mato Grosso",
+          "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/",
+          "ocorrencia_id": "OC-2623"
+        },
+        {
+          "data": "2026-10-28",
+          "titulo": "PF apreende cocaína submersa em navio e mira tráfico em reduto do PCC",
+          "local": "Porto de Santos · SP",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/pf-apreende-cocaina-submersa-em-navio-e-mira-trafico-em-reduto-do-pcc",
+          "ocorrencia_id": "OC-2621"
+        },
+        {
+          "data": "2026-10-27",
+          "titulo": "PF apreende cerca de 33 kg de cocaína no Porto de Santos",
+          "local": "Porto de Santos · SP",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Isso é Notícia",
+          "url": "https://www.issoenoticia.com.br/policia/pf-apreende-cerca-de-33kg-de-cocaina-no-porto-de-santos/932838",
+          "ocorrencia_id": null
+        },
+        {
+          "data": "2026-10-23",
+          "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
+          "local": "Parintins · AM",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Blog do Mario Adolfo",
+          "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+          "ocorrencia_id": "OC-2620"
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 5,
+        "kg": 4569.1
+      }
     },
     {
-     "data": "2026-11-18",
-     "titulo": "PF e Marinha apreendem 177 kg de cocaína com rastreadores na caixa de mar de navio com destino a Singapura no Porto de Santos",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Polícia Federal",
-     "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-apreende-177-kg-de-cocaina-em-navio-no-porto-de-santos",
-     "ocorrencia_id": "OC-2649"
+      "edicao": 3,
+      "id": "2026-10-19",
+      "inicio": "2026-10-19",
+      "fim": "2026-10-25",
+      "publicado_em": "2026-10-25",
+      "titulo": "Balsas de carga seguem como rota do tráfico no interior do Amazonas",
+      "destaques": [
+        "Apreensão de 72,7 kg de drogas numa balsa no Porto do Dodó, em Parintins (23/10). O responsável pela conferência da carga foi levado à delegacia.",
+        "Na Base Fluvial Arpão 1, em Jutaí, 15,6 kg de cocaína e pasta-base foram achados em duas embarcações com destino a Manaus (24/10)."
+      ],
+      "noticias": [
+        {
+          "data": "2026-10-26",
+          "titulo": "Operação em Jutaí intercepta drogas vindas da fronteira e causa prejuízo milionário",
+          "local": "Jutaí · AM",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal Barelândia",
+          "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/",
+          "ocorrencia_id": "OC-2624"
+        },
+        {
+          "data": "2026-10-23",
+          "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
+          "local": "Parintins · AM",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Blog do Mario Adolfo",
+          "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+          "ocorrencia_id": "OC-2620"
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 2,
+        "kg": 88.3
+      }
     },
     {
-     "data": "2026-11-18",
-     "titulo": "Exército apreende 35 kg de cocaína em embarcação prestes a deixar o porto de Tabatinga",
-     "local": "Tabatinga (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Rios de Notícias",
-     "url": "https://www.riosdenoticias.com.br/exercito-apreende-35-quilos-de-cocaina-em-embarcacao-no-porto-de-tabatinga/",
-     "ocorrencia_id": "OC-2650"
+      "edicao": 2,
+      "id": "2026-10-12",
+      "inicio": "2026-10-12",
+      "fim": "2026-10-18",
+      "publicado_em": "2026-10-18",
+      "titulo": "Piratas imitam polícia e Marinha para roubar combustível nos rios",
+      "destaques": [
+        "Reportagem mostra que criminosos usam sirenes para se passar por polícia e Marinha, render tripulações e desviar combustível de balsas.",
+        "Em 2025, cinco roubos desviaram cerca de 1,2 milhão de litros de combustível, principalmente diesel, nos rios Madeira, Amazonas e Solimões. O trecho de Itacoatiara ao Pará aparece como o mais crítico."
+      ],
+      "noticias": [
+        {
+          "data": "2026-10-15",
+          "titulo": "Pirataria nos rios da Amazônia: criminosos usam sirenes para imitar polícia e Marinha",
+          "local": "Rios da Amazônia",
+          "categoria": "Pirataria fluvial",
+          "fonte": "Revista Sociedade Militar",
+          "url": "https://www.sociedademilitar.com.br/2026/10/pirataria-nos-rios-da-amazonia-criminosos-usam-sirenes-para-imitar-policia-e-marinha-render-tripulacoes-e-roubar-combustivel-thz.html",
+          "ocorrencia_id": null
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 0,
+        "kg": 0
+      }
     },
     {
-     "data": "2026-11-18",
-     "titulo": "Levantamento aponta salto nas apreensões de cocaína em caixas de mar de navios no Porto de Santos: de 100 kg em 2025 para 523 kg em 2026",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Defesa em Foco",
-     "url": "https://www.defesaemfoco.com.br/portos-brasileiros-trafico-navios-vigilancia-autonoma/",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-18",
-     "titulo": "Guarda Portuária participa da Operação Tridente III, exercício binacional de proteção a cabos submarinos em Santos e Praia Grande",
-     "local": "Santos e Praia Grande (SP)",
-     "categoria": "Operação policial",
-     "fonte": "Segurança Portuária em Foco",
-     "url": "https://www.segurancaportuariaemfoco.com.br/2026/11/guarda-portuaria-participa-de-exercicio.html",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-18",
-     "titulo": "Conexão Oculta: diretor do Sintrammar é preso e dois suspeitos são detidos em Portugal",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Operação policial",
-     "fonte": "CBN Santos",
-     "url": "https://www.cbnsantos.com.br/noticias/policia/operacao-da-policia-federal-contra-trafico-no-porto-de-santos-prende-diretor-de-sindicato-e-dois-suspeitos-em-portugal.html",
-     "ocorrencia_id": "OC-2644"
-    },
-    {
-     "data": "2026-11-17",
-     "titulo": "PF deflagra Operação Conexão Oculta contra envio de cocaína à Europa pelo Porto de Santos",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Operação policial",
-     "fonte": "Metrópoles",
-     "url": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-trafico-internacional-de-drogas-pelo-porto-de-santos",
-     "ocorrencia_id": "OC-2644"
-    },
-    {
-     "data": "2026-11-16",
-     "titulo": "Receita divulga balanço da Operação Fronteira: R$ 581 milhões apreendidos em dez dias, com 95 ações integradas em portos e 82 prisões em flagrante",
-     "local": "Nacional",
-     "categoria": "Operação policial",
-     "fonte": "Floresta Notícias / Agência Brasil",
-     "url": "https://www.florestanoticias.com/2026/11/16/operacao-fronteira-2026-apreende-r-581-milhoes-em-mercadorias-ilicitas-e-drogas/",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-13",
-     "titulo": "Receita Federal divulga apreensão de 11 kg de cocaína em contêiner refrigerado no Porto de Santos, no encerramento da Operação Fronteira",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Reconecta News",
-     "url": "https://reconectanews.com.br/receita-federal-apreende-cocaina-cigarros-eletronicos-e-produtos-falsificados-no-porto-de-santos/",
-     "ocorrencia_id": "OC-2648"
+      "edicao": 1,
+      "id": "2026-10-05",
+      "inicio": "2026-10-05",
+      "fim": "2026-10-11",
+      "publicado_em": "2026-10-11",
+      "titulo": "Drogas escondidas em carga legal: painéis solares em Manaus e matéria-prima de sabonete em Santos",
+      "destaques": [
+        "Na Baía de Todos-os-Santos, em Salvador (BA), mergulhadores da PM acharam cerca de 150 kg de cocaína em áreas submersas de um navio com provável destino à Europa, em ação liderada pela PF (07/10).",
+        "Denarc e Receita Federal acharam 126 kg de skunk e haxixe entre painéis solares numa transportadora de Manaus, com destino a Guarulhos (06/10).",
+        "No Porto de Santos, 16,5 kg de cocaína estavam entre caixas de matéria-prima de sabonete com destino a Antuérpia (09/10)."
+      ],
+      "noticias": [
+        {
+          "data": "2026-10-09",
+          "titulo": "Receita Federal intercepta 16,5 kg de cocaína no Porto de Santos",
+          "local": "Porto de Santos · SP",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos",
+          "ocorrencia_id": "OC-2619"
+        },
+        {
+          "data": "2026-10-08",
+          "titulo": "Mergulhadores encontram cerca de 150 kg de cocaína em navio no mar de Salvador",
+          "local": "Salvador · BA",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Correio",
+          "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026",
+          "ocorrencia_id": "OC-2631"
+        },
+        {
+          "data": "2026-10-06",
+          "titulo": "Operação apreende 126 kg de drogas avaliadas em R$ 3 milhões em transportadora de Manaus",
+          "local": "Manaus · AM",
+          "categoria": "Apreensão de drogas",
+          "fonte": "Portal de Doduro",
+          "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/",
+          "ocorrencia_id": "OC-2618"
+        }
+      ],
+      "numeros": {
+        "ocorrencias": 3,
+        "kg": 292.5
+      }
     }
-   ],
-   "numeros": {
-    "ocorrencias": 7,
-    "kg": 446.45
-   }
-  },
-  {
-   "edicao": 6,
-   "id": "2026-11-09",
-   "inicio": "2026-11-09",
-   "fim": "2026-11-15",
-   "publicado_em": "2026-11-15",
-   "titulo": "540 kg de cocaína rumo a Paranaguá, 153 kg em navio em Santos, ataques hacker a terminais e apreensões nos rios da Amazônia marcam a semana",
-   "destaques": [
-    "PM Rodoviária apreendeu 540 kg de cocaína em Itirapina (SP), escondidos em contêiner de carne que seria embarcado no Porto de Paranaguá; motorista preso.",
-    "PF apreendeu 153 kg de cocaína na proa de navio com destino ao Marrocos no Porto de Santos, após o comandante relatar acesso de suspeitos encapuzados. Autoridade Portuária de Santos confirmou pedido de resgate após o ataque hacker de 6 de novembro.",
-    "PF deflagrou a Operação Recycling em Itajaí (SC) contra família do setor portuário suspeita de lavar dinheiro do tráfico, com bloqueio de até R$ 93,2 milhões.",
-    "Nos rios da Amazônia, seis apreensões em barcos somaram cerca de 118 kg de drogas, com destaque para 37 kg na Base Candiru, 32 kg na Base Arpão 2 e 15 kg no Porto de Parintins."
-   ],
-   "noticias": [
-    {
-     "data": "2026-11-16",
-     "titulo": "PF apreende 153 kg de cocaína em navio com destino ao Marrocos no Porto de Santos após suspeita de invasão na proa",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-no-porto-de-santos-intercepta-droga-com-destino-ao-marrocos/",
-     "ocorrencia_id": "OC-2643"
-    },
-    {
-     "data": "2026-11-15",
-     "titulo": "Receita apreende cerca de 30 mil cigarros eletrônicos em contêiner vindo da China no Porto de Imbituba",
-     "local": "Porto de Imbituba (SC)",
-     "categoria": "Operação policial",
-     "fonte": "Mix Vale",
-     "url": "https://www.mixvale.com.br/2026/11/15/receita-federal-apreende-30-mil-vapes-no-porto-de-imbituba-em-santa-catarina/",
-     "ocorrencia_id": "OC-2642"
-    },
-    {
-     "data": "2026-11-15",
-     "titulo": "Base Arpão 2 acha mais de 8 kg de cocaína e pasta base em bebedouro de barco que ia de Tabatinga a Manaus",
-     "local": "Coari (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal de Doduro",
-     "url": "https://portaldedoduro.com/2026/11/15/entorpecentes-avaliados-em-r-5575-mil-sao-descobertos-em-bebedouro-de-embarcacao-no-am/",
-     "ocorrencia_id": "OC-2640"
-    },
-    {
-     "data": "2026-11-15",
-     "titulo": "PM apreende mais de 15 kg de drogas em encomenda de embarcação no Porto de Parintins",
-     "local": "Parintins (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Segundo a Segundo",
-     "url": "https://segundoasegundo.com.br/2026/11/policia-militar-apreende-drogas/",
-     "ocorrencia_id": "OC-2641"
-    },
-    {
-     "data": "2026-11-13",
-     "titulo": "Operação Fronteira da Receita encerra fase ostensiva no Porto de Rio Grande após 10 dias e mais de 3.600 km desde Tabatinga; balanço sai em 16/11",
-     "local": "Porto de Rio Grande (RS)",
-     "categoria": "Operação policial",
-     "fonte": "Jornal de Brasília",
-     "url": "https://jornaldebrasilia.com.br/noticias/brasil/operacao-fronteira-encerra-edicao-historica-no-porto-de-rio-grande",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-13",
-     "titulo": "Portonave é citada por grupo hacker que pede US$ 5,8 milhões; terminal diz não haver evidência de invasão e reforça segurança digital",
-     "local": "Navegantes (SC)",
-     "categoria": "Invasão de terminal",
-     "fonte": "Transporte Moderno",
-     "url": "https://transportemoderno.com.br/2026/11/13/portonave-e-citada-por-hackers-e-reforca-seguranca-digital/",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-12",
-     "titulo": "Base Candiru apreende 37 kg de drogas em fundo falso de carro transportado em barco de Manaus para Belém",
-     "local": "Óbidos (PA)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "O Impacto",
-     "url": "https://oimpacto.com.br/2026/11/base-candiru-apreende-mais-de-37-quilos-de-drogas-em-embarcacao/",
-     "ocorrencia_id": "OC-2639"
-    },
-    {
-     "data": "2026-11-12",
-     "titulo": "Autoridade Portuária de Santos confirma pedido de resgate após invasão cibernética; valor não foi pago e site segue fora do ar",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Operação policial",
-     "fonte": "Urgente News",
-     "url": "https://urgentenews.org/santos/2026/11/12/porto-de-santos-recebe-pedido-de-resgate-apos-invasao-cibernetica-site-segue-fora-do-ar.html",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-10",
-     "titulo": "PM Rodoviária apreende 540 kg de cocaína em contêiner de carne que seguia para o Porto de Paranaguá",
-     "local": "Itirapina (SP)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "ND Mais",
-     "url": "https://ndmais.com.br/seguranca/caminhoneiro-carne-bovina-500-tijolos-cocaina-paranagua/",
-     "ocorrencia_id": "OC-2638"
-    },
-    {
-     "data": "2026-11-12",
-     "titulo": "Duas mulheres são presas com 10 kg de cocaína em barco rumo a Manaus, em Jutaí",
-     "local": "Jutaí (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal de Doduro",
-     "url": "https://portaldedoduro.com/2026/11/12/duas-mulheres-sao-presas-com-10-kg-de-cocaina-em-embarcacao-rumo-a-manaus/",
-     "ocorrencia_id": "OC-2636"
-    },
-    {
-     "data": "2026-11-11",
-     "titulo": "Base Fluvial Candiru apreende quase 16 kg de drogas em barco no Baixo Amazonas",
-     "local": "Juruti (PA)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "RBTV / Secom Pará",
-     "url": "https://rbtv.com.br/noticia/30787/base-fluvial-candiru-apreende-mais-de-15-quilos-de-drogas-em-embarcacao-no-baixo-amazonas",
-     "ocorrencia_id": "OC-2635"
-    },
-    {
-     "data": "2026-11-11",
-     "titulo": "Receita retém R$ 35 milhões em itens irregulares no Porto de Vitória na Operação Fronteira",
-     "local": "Porto de Vitória (ES)",
-     "categoria": "Operação policial",
-     "fonte": "Agência Brasil / BR230",
-     "url": "https://www.br230.com.br/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria",
-     "ocorrencia_id": "OC-2634"
-    },
-    {
-     "data": "2026-11-10",
-     "titulo": "Cão farejador encontra mais de 32 kg de drogas em malas dentro de lancha no Solimões",
-     "local": "Base Arpão 2, Rio Solimões (AM)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Em Tempo",
-     "url": "https://emtempo.com.br/612074/policia/cao-farejador-apreende-drogas-lancha-amazonas/",
-     "ocorrencia_id": "OC-2633"
-    },
-    {
-     "data": "2026-11-10",
-     "titulo": "Autoridade Portuária de Santos confirma ataque hacker, PF abre inquérito e Cesportos eleva nível de segurança nos acessos",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Operação policial",
-     "fonte": "Revista Sociedade Militar",
-     "url": "https://www.sociedademilitar.com.br/2026/11/porto-de-santos-confirma-ataque-hacker-pf-abre-inquerito-e-marinha-mobiliza-700-militares-na-regiao-mjd.html",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-10",
-     "titulo": "PF deflagra Operação Recycling contra lavagem de dinheiro de família do setor portuário ligada ao tráfico pelos portos de Itajaí e Rio Grande",
-     "local": "Itajaí (SC)",
-     "categoria": "Operação policial",
-     "fonte": "O Liberal / Estadão Conteúdo",
-     "url": "https://www.oliberal.com/variedades/familia-de-empresarios-do-setor-portuario-que-atua-ha-14-anos-para-o-trafico-e-alvo-da-pf-1.1192695",
-     "ocorrencia_id": "OC-2632"
-    },
-    {
-     "data": "2026-11-10",
-     "titulo": "Reportagem da BBC mostra avanço do uso de caixas de mar de navios para esconder cocaína no Porto de Santos",
-     "local": "Porto de Santos (SP)",
-     "categoria": "Apreensão de drogas",
-     "fonte": "A Gazeta / BBC News Brasil",
-     "url": "https://www.agazeta.com.br/mundo/o-novo-esconderijo-da-cocaina-no-porto-de-santos-1126",
-     "ocorrencia_id": null
-    }
-   ],
-   "numeros": {
-    "ocorrencias": 11,
-    "kg": 811.98
-   }
-  },
-  {
-   "edicao": 5,
-   "id": "2026-11-02",
-   "inicio": "2026-11-02",
-   "fim": "2026-11-08",
-   "publicado_em": "2026-11-08",
-   "titulo": "Piratas atacam comunidade em Coari e Porto do Rio concentra apreensões de carga irregular",
-   "destaques": [
-    "Em Coari (AM), piratas invadiram na madrugada de 04/11 a comunidade São Francisco da Boca do Codajás Mirim, roubaram moradores e embarcações e fizeram ao menos quatro reféns, depois liberados. Famílias se esconderam na mata e a PM enviou equipes da Base Fluvial Arpão 2.",
-    "No Porto do Rio de Janeiro, a Receita Federal apreendeu em 04/11 um contêiner vindo da China com cerca de 15 toneladas de mercadorias irregulares, avaliadas em R$ 3,6 milhões, e, em outro contêiner, 1.680 caixas de blocos de montar falsificados, avaliadas em R$ 228 mil.",
-    "No porto de Japurá (AM), cerca de 16 kg de skunk foram achados na boia de uma embarcação após denúncia anônima (31/10, noticiado em 03/11). Dois homens foram presos.",
-    "Na Base Integrada Fluvial Candiru, em Óbidos (PA), o Grupamento Fluvial apreendeu em 05/11 cerca de 4,35 kg de pasta base de cocaína em encomenda a bordo de embarcação que seguia de Manaus para Belém."
-   ],
-   "noticias": [
-    {
-     "data": "2026-11-06",
-     "titulo": "Vídeo mostra famílias escondidas na mata após ataque de piratas em comunidade no Amazonas",
-     "local": "Coari · AM",
-     "categoria": "Pirataria fluvial",
-     "fonte": "ac24horas",
-     "url": "https://ac24horas.com/2026/11/06/video-mostra-familias-escondidas-na-mata-apos-ataque-de-piratas-em-comunidade-no-amazonas/",
-     "ocorrencia_id": "OC-2630"
-    },
-    {
-     "data": "2026-11-06",
-     "titulo": "Polícia apreende mais de 4 kg de pasta base de cocaína em embarcação no Rio Amazonas",
-     "local": "Óbidos · PA",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Estado do Pará Online",
-     "url": "https://estadodoparaonline.com/policia-apreende-mais-de-4-kg-de-pasta-base-de-cocaina-em-embarcacao-no-rio-amazonas",
-     "ocorrencia_id": "OC-2629"
-    },
-    {
-     "data": "2026-11-05",
-     "titulo": "Operação Fronteira Receita Federal já soma R$ 30 milhões em apreensões",
-     "local": "Brasil",
-     "categoria": "Operação policial",
-     "fonte": "Agência Gov",
-     "url": "https://agenciagov.ebc.com.br/noticias/202611/operacao-fronteira-receita-federal-ja-soma-cerca-de-r-30-milhoes-em-apreensoes-1",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-11-05",
-     "titulo": "Receita Federal apreende brinquedos falsificados no Porto do Rio",
-     "local": "Rio de Janeiro · RJ",
-     "categoria": "Operação policial",
-     "fonte": "Primeira Página SC",
-     "url": "https://www.primeirapaginasc.com/receita-apreende-brinquedos-falsificados-da-lego-no-porto-do-rio/",
-     "ocorrencia_id": "OC-2628"
-    },
-    {
-     "data": "2026-11-04",
-     "titulo": "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio",
-     "local": "Rio de Janeiro · RJ",
-     "categoria": "Operação policial",
-     "fonte": "Agência Brasil, via Tribuna do Sertão",
-     "url": "https://www.tribunadosertao.com.br/geral/2026/11/04/1013733-receita-apreende-15-toneladas-de-produtos-irregulares-no-porto-do-rio",
-     "ocorrencia_id": "OC-2627"
-    },
-    {
-     "data": "2026-11-03",
-     "titulo": "Polícia apreende 16 kg de skunk escondidos em embarcação no interior do Amazonas",
-     "local": "Japurá · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "O Chefão da Notícia",
-     "url": "https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/",
-     "ocorrencia_id": "OC-2626"
-    },
-    {
-     "data": "2026-11-03",
-     "titulo": "Barcos fantasmas: PF investiga pesqueiros usados para levar cocaína à Europa",
-     "local": "Itajaí · SC",
-     "categoria": "Operação policial",
-     "fonte": "Defesa em Foco",
-     "url": "https://www.defesaemfoco.com.br/barcos-fantasmas-pf-investiga-pesqueiros-cocaina-europa/",
-     "ocorrencia_id": null
-    }
-   ],
-   "numeros": {
-    "ocorrencias": 5,
-    "kg": 20.35
-   }
-  },
-  {
-   "edicao": 4,
-   "id": "2026-10-26",
-   "inicio": "2026-10-26",
-   "fim": "2026-11-01",
-   "publicado_em": "2026-11-01",
-   "titulo": "Recorde de 4,4 toneladas em SC e cocaína escondida em navios em Santos e Paranaguá",
-   "destaques": [
-    "A Polícia Civil de Santa Catarina apreendeu 4,4 toneladas de cocaína num galpão em Balneário Piçarras, perto do complexo portuário de Itajaí (29/10). Seis britânicos foram presos e a suspeita é de envio ao exterior por logística portuária.",
-    "Mergulhadores da PF e da Marinha retiraram 33 kg de cocaína de um compartimento submerso de navio atracado no Porto de Santos (27/10). No dia seguinte, a Operação Rebuliço cumpriu 11 mandados de prisão contra grupo ligado ao PCC.",
-    "No Porto de Paranaguá, a PF achou 31,6 kg de cocaína em compartimentos de um navio de carga (30/10).",
-    "Na Amazônia, 72,7 kg de drogas foram apreendidos numa balsa no Porto do Dodó, em Parintins (23/10), e cerca de 5,8 kg num barco em Boa Vista do Ramos, na Operação Faro (noticiado em 01/11)."
-   ],
-   "noticias": [
-    {
-     "data": "2026-11-01",
-     "titulo": "Cadela policial ajuda a apreender 5,8 quilos de drogas em embarcação no Amazonas",
-     "local": "Boa Vista do Ramos · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Rios de Notícias",
-     "url": "https://www.riosdenoticias.com.br/cadela-policial-yacy-ajuda-a-apreender-58-quilos-de-drogas-em-embarcacao-no-amazonas/",
-     "ocorrencia_id": "OC-2625"
-    },
-    {
-     "data": "2026-10-30",
-     "titulo": "Apreensão de 4,4 toneladas de cocaína em SC se torna a maior em operação única no país",
-     "local": "Balneário Piçarras · SC",
-     "categoria": "Apreensão de drogas",
-     "fonte": "ND+",
-     "url": "https://ndmais.com.br/seguranca/apreensao-de-cocaina-em-sc-maior-do-brasil/",
-     "ocorrencia_id": "OC-2622"
-    },
-    {
-     "data": "2026-10-30",
-     "titulo": "PF apreende mais de 31 kg de cocaína no porto de Paranaguá",
-     "local": "Porto de Paranaguá · PR",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal Mato Grosso",
-     "url": "https://portalmatogrosso.com.br/pf-apreende-mais-de-31-kg-de-cocaina-no-porto-de-paranagua/",
-     "ocorrencia_id": "OC-2623"
-    },
-    {
-     "data": "2026-10-28",
-     "titulo": "PF apreende cocaína submersa em navio e mira tráfico em reduto do PCC",
-     "local": "Porto de Santos · SP",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Metrópoles",
-     "url": "https://www.metropoles.com/sao-paulo/pf-apreende-cocaina-submersa-em-navio-e-mira-trafico-em-reduto-do-pcc",
-     "ocorrencia_id": "OC-2621"
-    },
-    {
-     "data": "2026-10-27",
-     "titulo": "PF apreende cerca de 33 kg de cocaína no Porto de Santos",
-     "local": "Porto de Santos · SP",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Isso é Notícia",
-     "url": "https://www.issoenoticia.com.br/policia/pf-apreende-cerca-de-33kg-de-cocaina-no-porto-de-santos/932838",
-     "ocorrencia_id": null
-    },
-    {
-     "data": "2026-10-23",
-     "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
-     "local": "Parintins · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Blog do Mario Adolfo",
-     "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
-     "ocorrencia_id": "OC-2620"
-    }
-   ],
-   "numeros": {
-    "ocorrencias": 5,
-    "kg": 4569.1
-   }
-  },
-  {
-   "edicao": 3,
-   "id": "2026-10-19",
-   "inicio": "2026-10-19",
-   "fim": "2026-10-25",
-   "publicado_em": "2026-10-25",
-   "titulo": "Balsas de carga seguem como rota do tráfico no interior do Amazonas",
-   "destaques": [
-    "Apreensão de 72,7 kg de drogas numa balsa no Porto do Dodó, em Parintins (23/10). O responsável pela conferência da carga foi levado à delegacia.",
-    "Na Base Fluvial Arpão 1, em Jutaí, 15,6 kg de cocaína e pasta-base foram achados em duas embarcações com destino a Manaus (24/10)."
-   ],
-   "noticias": [
-    {
-     "data": "2026-10-26",
-     "titulo": "Operação em Jutaí intercepta drogas vindas da fronteira e causa prejuízo milionário",
-     "local": "Jutaí · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal Barelândia",
-     "url": "https://barelandia.com.br/policia/operacao-em-jutai-intercepta-drogas-vindas-da-fronteira-e-causa-prejuizo-milionario/",
-     "ocorrencia_id": "OC-2624"
-    },
-    {
-     "data": "2026-10-23",
-     "titulo": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
-     "local": "Parintins · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Blog do Mario Adolfo",
-     "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
-     "ocorrencia_id": "OC-2620"
-    }
-   ],
-   "numeros": {
-    "ocorrencias": 2,
-    "kg": 88.3
-   }
-  },
-  {
-   "edicao": 2,
-   "id": "2026-10-12",
-   "inicio": "2026-10-12",
-   "fim": "2026-10-18",
-   "publicado_em": "2026-10-18",
-   "titulo": "Piratas imitam polícia e Marinha para roubar combustível nos rios",
-   "destaques": [
-    "Reportagem mostra que criminosos usam sirenes para se passar por polícia e Marinha, render tripulações e desviar combustível de balsas.",
-    "Em 2025, cinco roubos desviaram cerca de 1,2 milhão de litros de combustível, principalmente diesel, nos rios Madeira, Amazonas e Solimões. O trecho de Itacoatiara ao Pará aparece como o mais crítico."
-   ],
-   "noticias": [
-    {
-     "data": "2026-10-15",
-     "titulo": "Pirataria nos rios da Amazônia: criminosos usam sirenes para imitar polícia e Marinha",
-     "local": "Rios da Amazônia",
-     "categoria": "Pirataria fluvial",
-     "fonte": "Revista Sociedade Militar",
-     "url": "https://www.sociedademilitar.com.br/2026/10/pirataria-nos-rios-da-amazonia-criminosos-usam-sirenes-para-imitar-policia-e-marinha-render-tripulacoes-e-roubar-combustivel-thz.html",
-     "ocorrencia_id": null
-    }
-   ],
-   "numeros": {
-    "ocorrencias": 0,
-    "kg": 0
-   }
-  },
-  {
-   "edicao": 1,
-   "id": "2026-10-05",
-   "inicio": "2026-10-05",
-   "fim": "2026-10-11",
-   "publicado_em": "2026-10-11",
-   "titulo": "Drogas escondidas em carga legal: painéis solares em Manaus e matéria-prima de sabonete em Santos",
-   "destaques": [
-    "Na Baía de Todos-os-Santos, em Salvador (BA), mergulhadores da PM acharam cerca de 150 kg de cocaína em áreas submersas de um navio com provável destino à Europa, em ação liderada pela PF (07/10).",
-    "Denarc e Receita Federal acharam 126 kg de skunk e haxixe entre painéis solares numa transportadora de Manaus, com destino a Guarulhos (06/10).",
-    "No Porto de Santos, 16,5 kg de cocaína estavam entre caixas de matéria-prima de sabonete com destino a Antuérpia (09/10)."
-   ],
-   "noticias": [
-    {
-     "data": "2026-10-09",
-     "titulo": "Receita Federal intercepta 16,5 kg de cocaína no Porto de Santos",
-     "local": "Porto de Santos · SP",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Receita Federal",
-     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos",
-     "ocorrencia_id": "OC-2619"
-    },
-    {
-     "data": "2026-10-08",
-     "titulo": "Mergulhadores encontram cerca de 150 kg de cocaína em navio no mar de Salvador",
-     "local": "Salvador · BA",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Correio",
-     "url": "https://www.correio24horas.com.br/salvador/mergulhadores-encontram-cerca-de-150-kg-de-cocaina-em-navio-no-mar-de-salvador-1026",
-     "ocorrencia_id": "OC-2631"
-    },
-    {
-     "data": "2026-10-06",
-     "titulo": "Operação apreende 126 kg de drogas avaliadas em R$ 3 milhões em transportadora de Manaus",
-     "local": "Manaus · AM",
-     "categoria": "Apreensão de drogas",
-     "fonte": "Portal de Doduro",
-     "url": "https://portaldedoduro.com/2026/10/06/operacao-apreende-126-kg-de-drogas-avaliadas-em-r-3-milhoes-em-transportadora-de-manaus/",
-     "ocorrencia_id": "OC-2618"
-    }
-   ],
-   "numeros": {
-    "ocorrencias": 3,
-    "kg": 292.5
-   }
-  }
- ]
+  ]
 }
