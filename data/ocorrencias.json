@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-25",
- "total": 81,
+ "atualizado_em": "2026-11-26",
+ "total": 83,
  "rows": [
   {
    "id": "OC-2401",
@@ -1620,6 +1620,46 @@
    "local_aproximado": false,
    "fonte": "O Liberal",
    "url": "https://www.oliberal.com/policia/base-fluvial-candiru-apreende-112-quilos-de-drogas-em-obidos-1.1184361",
+   "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2655",
+   "ano": 2026,
+   "data": "2026-03-10",
+   "local": "Terminal de contêineres do Porto de Paranaguá",
+   "uf": "PR",
+   "regiao": "Sul",
+   "polo": "Porto de Paranaguá",
+   "x": 637.6,
+   "y": 789.7,
+   "lat": -25.5,
+   "lon": -48.51,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Receita Federal achou 226 kg de cocaína escondidos em fardos de vigas de pinus tratadas em contêiner de madeira com destino à Itália, com transbordo em Las Palmas. Achado com scanner; caso segue com a PF.",
+   "kg": 226,
+   "local_aproximado": false,
+   "fonte": "Ilha do Mel FM",
+   "url": "https://ilhadomelfm.com.br/receita-federal-apreende-226-quilos-de-cocaina-no-terminal-de-conteineres-do-porto-de-paranagua/",
+   "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2656",
+   "ano": 2026,
+   "data": "2026-03-26",
+   "local": "Base Arpão 3, proximidades de Barcelos",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Barcelos (AM)",
+   "x": 314.8,
+   "y": 179.1,
+   "lat": -1.7,
+   "lon": -61.6,
+   "categoria": "Apreensão de drogas",
+   "resumo": "PM achou 260,4 kg de skunk em 222 tabletes no casco de bote de alumínio já apreendido em ocorrência anterior, após notar peso acima do normal. Com a apreensão anterior, o total no bote passou de 480 kg.",
+   "kg": 260.4,
+   "local_aproximado": true,
+   "fonte": "SSP-AM",
+   "url": "https://www.ssp.am.gov.br/base-arpao-3-pmam-apreende-mais-de-260-quilos-de-drogas-ocultas-em-casco-de-embarcacao/",
    "ambito": "Embarcação ou hidrovia"
   }
  ]
