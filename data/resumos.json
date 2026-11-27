@@ -1,17 +1,37 @@
 {
- "atualizado_em": "2026-11-26",
+ "atualizado_em": "2026-11-27",
  "resumos": [
   {
    "edicao": 8,
    "id": "2026-11-23",
    "inicio": "2026-11-23",
    "fim": "2026-11-29",
-   "publicado_em": "2026-11-26",
+   "publicado_em": "2026-11-27",
    "titulo": "Semana de 23 a 29 de novembro de 2026",
    "destaques": [
-    "Sem ocorrências noticiadas até agora nesta semana."
+    "Sem ocorrências novas noticiadas até agora nesta semana.",
+    "Operação Conexão Oculta avança: PF aponta líder do esquema de cocaína pelo Porto de Santos, preso em Portugal, e identifica R$ 15,5 milhões em transações atípicas de sindicalista portuário."
    ],
-   "noticias": [],
+   "noticias": [
+    {
+     "data": "2026-11-26",
+     "titulo": "PF identifica R$ 15,5 milhões em transações atípicas de sindicalista investigado por tráfico no Porto de Santos (Operação Conexão Oculta)",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "CBN Santos",
+     "url": "https://www.cbnsantos.com.br/noticias/policia/pf-identifica-r-155-milhoes-em-transacoes-atipicas-de-sindicalista-investigado-por-trafico-no-porto-de-santos.html",
+     "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-24",
+     "titulo": "PF aponta empresário preso em Portugal como líder de esquema que escondia cocaína em cargas de exportação pelo Porto de Santos",
+     "local": "Porto de Santos (SP)",
+     "categoria": "Operação policial",
+     "fonte": "TV Sim Brasil",
+     "url": "https://tvsimbrasil.com.br/sp/santos/noticias/noticia/2026/11/24/pf-aponta-empresario-lider-cocaina-porto-santos",
+     "ocorrencia_id": null
+    }
+   ],
    "numeros": {
     "ocorrencias": 0,
     "kg": 0
