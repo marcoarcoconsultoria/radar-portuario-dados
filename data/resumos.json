@@ -1,18 +1,37 @@
 {
- "atualizado_em": "2026-11-27",
+ "atualizado_em": "2026-11-28",
  "resumos": [
   {
    "edicao": 8,
    "id": "2026-11-23",
    "inicio": "2026-11-23",
    "fim": "2026-11-29",
-   "publicado_em": "2026-11-27",
-   "titulo": "Semana de 23 a 29 de novembro de 2026",
+   "publicado_em": "2026-11-28",
+   "titulo": "Denarc intercepta 67 kg de drogas no Porto de Manaus e em transportadora, e PF avança na Operação Conexão Oculta em Santos",
    "destaques": [
-    "Sem ocorrências novas noticiadas até agora nesta semana.",
-    "Operação Conexão Oculta avança: PF aponta líder do esquema de cocaína pelo Porto de Santos, preso em Portugal, e identifica R$ 15,5 milhões em transações atípicas de sindicalista portuário."
+    "Denarc e Receita Federal apreendem cerca de 67 kg de drogas em Manaus em dois dias: 35,8 kg de skunk em embarcação no Roadway do Porto, com dois presos, e 31 kg em transportadora.",
+    "Operação Conexão Oculta avança: PF aponta líder do esquema de cocaína pelo Porto de Santos, preso em Portugal, e identifica R$ 15,5 milhões em transações atípicas de sindicalista portuário.",
+    "Receita Federal retém 58 toneladas de roupas e tênis com suspeita de falsificação no Porto Seco de Resende (RJ), avaliados em R$ 18 milhões."
    ],
    "noticias": [
+    {
+     "data": "2026-11-26",
+     "titulo": "Denarc prende dois homens com 35,8 kg de skunk em embarcação no Roadway do Porto de Manaus",
+     "local": "Porto de Manaus (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Portal de Doduro",
+     "url": "https://portaldedoduro.com/2026/11/27/denarc-intercepta-cargas-de-drogas-em-transportadora-e-embarcacao-no-porto-de-manaus/",
+     "ocorrencia_id": "OC-2657"
+    },
+    {
+     "data": "2026-11-26",
+     "titulo": "Receita Federal apreende 58 toneladas de roupas e tênis com suspeita de falsificação, avaliados em R$ 18 milhões, no Porto Seco de Resende",
+     "local": "Porto Seco de Resende (RJ)",
+     "categoria": "Operação policial",
+     "fonte": "Mercado & Consumo",
+     "url": "https://mercadoeconsumo.com.br/27/11/2026/economia/receita-apreende-r-18-mi-em-produtos-chineses-sob-suspeita-de-falsificacao-no-rio-de-janeiro/",
+     "ocorrencia_id": null
+    },
     {
      "data": "2026-11-26",
      "titulo": "PF identifica R$ 15,5 milhões em transações atípicas de sindicalista investigado por tráfico no Porto de Santos (Operação Conexão Oculta)",
@@ -21,6 +40,15 @@
      "fonte": "CBN Santos",
      "url": "https://www.cbnsantos.com.br/noticias/policia/pf-identifica-r-155-milhoes-em-transacoes-atipicas-de-sindicalista-investigado-por-trafico-no-porto-de-santos.html",
      "ocorrencia_id": null
+    },
+    {
+     "data": "2026-11-25",
+     "titulo": "Denarc e Receita acham cerca de 31 kg de maconha e cocaína em transportadora de Manaus, em carga que seguiria para o Rio de Janeiro",
+     "local": "Manaus (AM)",
+     "categoria": "Apreensão de drogas",
+     "fonte": "Segundo a Segundo",
+     "url": "https://segundoasegundo.com.br/2026/11/operacao-em-manaus-drogas/",
+     "ocorrencia_id": "OC-2658"
     },
     {
      "data": "2026-11-24",
@@ -33,8 +61,8 @@
     }
    ],
    "numeros": {
-    "ocorrencias": 0,
-    "kg": 0
+    "ocorrencias": 2,
+    "kg": 66.8
    }
   },
   {

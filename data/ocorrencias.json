@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-27",
- "total": 83,
+ "atualizado_em": "2026-11-28",
+ "total": 85,
  "rows": [
   {
    "id": "OC-2401",
@@ -1661,6 +1661,46 @@
    "fonte": "SSP-AM",
    "url": "https://www.ssp.am.gov.br/base-arpao-3-pmam-apreende-mais-de-260-quilos-de-drogas-ocultas-em-casco-de-embarcacao/",
    "ambito": "Embarcação ou hidrovia"
+  },
+  {
+   "id": "OC-2657",
+   "ano": 2026,
+   "data": "2026-11-26",
+   "local": "Roadway do Porto de Manaus, Centro",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Manaus (AM)",
+   "x": 354.8,
+   "y": 215.5,
+   "lat": -3.12,
+   "lon": -60.05,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Denarc e Receita acharam 35,8 kg de skunk em 33 tabletes e uma porção, em malas e sacolas perto das redes de passageiros de embarcação com destino ao Pará. Dois homens presos em flagrante e um bote de alumínio apreendido.",
+   "kg": 35.8,
+   "local_aproximado": false,
+   "fonte": "Portal de Doduro",
+   "url": "https://portaldedoduro.com/2026/11/27/denarc-intercepta-cargas-de-drogas-em-transportadora-e-embarcacao-no-porto-de-manaus/",
+   "ambito": "Porto ou terminal"
+  },
+  {
+   "id": "OC-2658",
+   "ano": 2026,
+   "data": "2026-11-25",
+   "local": "Transportadora na zona centro-sul, Manaus",
+   "uf": "AM",
+   "regiao": "Norte",
+   "polo": "Manaus (AM)",
+   "x": 354.8,
+   "y": 215.5,
+   "lat": -3.12,
+   "lon": -60.05,
+   "categoria": "Apreensão de drogas",
+   "resumo": "Denarc e Receita, com cão farejador, acharam cerca de 31 kg de maconha e cocaína em veículo que seguiria para o Rio de Janeiro. Ninguém foi preso.",
+   "kg": 31,
+   "local_aproximado": false,
+   "fonte": "Portal de Doduro",
+   "url": "https://portaldedoduro.com/2026/11/27/denarc-intercepta-cargas-de-drogas-em-transportadora-e-embarcacao-no-porto-de-manaus/",
+   "ambito": "Fora do porto"
   }
  ]
 }
